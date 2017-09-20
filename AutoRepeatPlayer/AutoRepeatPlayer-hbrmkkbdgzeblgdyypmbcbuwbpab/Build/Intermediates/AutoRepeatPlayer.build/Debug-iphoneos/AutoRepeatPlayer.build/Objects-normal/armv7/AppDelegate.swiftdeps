@@ -1,0 +1,410 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "AppDelegate"
+provides-nominal:
+- "C16AutoRepeatPlayer11AppDelegate"
+provides-member:
+- ["C16AutoRepeatPlayer11AppDelegate", ""]
+provides-dynamic-lookup:
+- "application"
+- "applicationDidBecomeActive"
+- "applicationDidEnterBackground"
+- "applicationWillEnterForeground"
+- "applicationWillResignActive"
+- "applicationWillTerminate"
+- "player"
+- "window"
+depends-top-level:
+- "AppDelegate"
+- "AssignmentPrecedence"
+- "Bool"
+- !private "BooleanLiteralType"
+- "MP3Player"
+- "UIApplication"
+- "UIApplicationDelegate"
+- "UIApplicationLaunchOptionsKey"
+- "UIResponder"
+- "UIWindow"
+depends-member:
+- !private ["PSo21AVAudioPlayerDelegate", "sharedInstance"]
+- !private ["Ps9AnyObject", "MP3Player"]
+- ["Ps9AnyObject", "application"]
+- ["Ps9AnyObject", "applicationDidBecomeActive"]
+- ["Ps9AnyObject", "applicationDidEnterBackground"]
+- ["Ps9AnyObject", "applicationDidFinishLaunching"]
+- ["Ps9AnyObject", "applicationDidReceiveMemoryWarning"]
+- ["Ps9AnyObject", "applicationProtectedDataDidBecomeAvailable"]
+- ["Ps9AnyObject", "applicationProtectedDataWillBecomeUnavailable"]
+- ["Ps9AnyObject", "applicationShouldRequestHealthAuthorization"]
+- ["Ps9AnyObject", "applicationSignificantTimeChange"]
+- ["Ps9AnyObject", "applicationWillEnterForeground"]
+- ["Ps9AnyObject", "applicationWillResignActive"]
+- ["Ps9AnyObject", "applicationWillTerminate"]
+- !private ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "player"]
+- !private ["Ps9AnyObject", "sharedInstance"]
+- ["Ps9AnyObject", "window"]
+- ["Ps9AnyObject", ""]
+- ["C16AutoRepeatPlayer11AppDelegate", "Bool"]
+- ["C16AutoRepeatPlayer11AppDelegate", "MP3Player"]
+- ["C16AutoRepeatPlayer11AppDelegate", "UIApplication"]
+- ["C16AutoRepeatPlayer11AppDelegate", "UIApplicationLaunchOptionsKey"]
+- ["C16AutoRepeatPlayer11AppDelegate", "UIWindow"]
+- ["C16AutoRepeatPlayer11AppDelegate", "application"]
+- ["C16AutoRepeatPlayer11AppDelegate", "applicationDidBecomeActive"]
+- ["C16AutoRepeatPlayer11AppDelegate", "applicationDidEnterBackground"]
+- ["C16AutoRepeatPlayer11AppDelegate", "applicationDidFinishLaunching"]
+- ["C16AutoRepeatPlayer11AppDelegate", "applicationDidReceiveMemoryWarning"]
+- ["C16AutoRepeatPlayer11AppDelegate", "applicationProtectedDataDidBecomeAvailable"]
+- ["C16AutoRepeatPlayer11AppDelegate", "applicationProtectedDataWillBecomeUnavailable"]
+- ["C16AutoRepeatPlayer11AppDelegate", "applicationShouldRequestHealthAuthorization"]
+- ["C16AutoRepeatPlayer11AppDelegate", "applicationSignificantTimeChange"]
+- ["C16AutoRepeatPlayer11AppDelegate", "applicationWillEnterForeground"]
+- ["C16AutoRepeatPlayer11AppDelegate", "applicationWillResignActive"]
+- ["C16AutoRepeatPlayer11AppDelegate", "applicationWillTerminate"]
+- ["C16AutoRepeatPlayer11AppDelegate", "deinit"]
+- ["C16AutoRepeatPlayer11AppDelegate", "init"]
+- ["C16AutoRepeatPlayer11AppDelegate", "player"]
+- ["C16AutoRepeatPlayer11AppDelegate", "window"]
+- !private ["Ps7CVarArg", "MP3Player"]
+- ["Ps7CVarArg", "application"]
+- ["Ps7CVarArg", "applicationDidBecomeActive"]
+- ["Ps7CVarArg", "applicationDidEnterBackground"]
+- ["Ps7CVarArg", "applicationDidFinishLaunching"]
+- ["Ps7CVarArg", "applicationDidReceiveMemoryWarning"]
+- ["Ps7CVarArg", "applicationProtectedDataDidBecomeAvailable"]
+- ["Ps7CVarArg", "applicationProtectedDataWillBecomeUnavailable"]
+- ["Ps7CVarArg", "applicationShouldRequestHealthAuthorization"]
+- ["Ps7CVarArg", "applicationSignificantTimeChange"]
+- ["Ps7CVarArg", "applicationWillEnterForeground"]
+- ["Ps7CVarArg", "applicationWillResignActive"]
+- ["Ps7CVarArg", "applicationWillTerminate"]
+- !private ["Ps7CVarArg", "init"]
+- !private ["Ps7CVarArg", "player"]
+- !private ["Ps7CVarArg", "sharedInstance"]
+- ["Ps7CVarArg", "window"]
+- ["Ps7CVarArg", ""]
+- !private ["Ps28CustomDebugStringConvertible", "MP3Player"]
+- ["Ps28CustomDebugStringConvertible", "application"]
+- ["Ps28CustomDebugStringConvertible", "applicationDidBecomeActive"]
+- ["Ps28CustomDebugStringConvertible", "applicationDidEnterBackground"]
+- ["Ps28CustomDebugStringConvertible", "applicationDidFinishLaunching"]
+- ["Ps28CustomDebugStringConvertible", "applicationDidReceiveMemoryWarning"]
+- ["Ps28CustomDebugStringConvertible", "applicationProtectedDataDidBecomeAvailable"]
+- ["Ps28CustomDebugStringConvertible", "applicationProtectedDataWillBecomeUnavailable"]
+- ["Ps28CustomDebugStringConvertible", "applicationShouldRequestHealthAuthorization"]
+- ["Ps28CustomDebugStringConvertible", "applicationSignificantTimeChange"]
+- ["Ps28CustomDebugStringConvertible", "applicationWillEnterForeground"]
+- ["Ps28CustomDebugStringConvertible", "applicationWillResignActive"]
+- ["Ps28CustomDebugStringConvertible", "applicationWillTerminate"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "player"]
+- !private ["Ps28CustomDebugStringConvertible", "sharedInstance"]
+- ["Ps28CustomDebugStringConvertible", "window"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps23CustomStringConvertible", "MP3Player"]
+- ["Ps23CustomStringConvertible", "application"]
+- ["Ps23CustomStringConvertible", "applicationDidBecomeActive"]
+- ["Ps23CustomStringConvertible", "applicationDidEnterBackground"]
+- ["Ps23CustomStringConvertible", "applicationDidFinishLaunching"]
+- ["Ps23CustomStringConvertible", "applicationDidReceiveMemoryWarning"]
+- ["Ps23CustomStringConvertible", "applicationProtectedDataDidBecomeAvailable"]
+- ["Ps23CustomStringConvertible", "applicationProtectedDataWillBecomeUnavailable"]
+- ["Ps23CustomStringConvertible", "applicationShouldRequestHealthAuthorization"]
+- ["Ps23CustomStringConvertible", "applicationSignificantTimeChange"]
+- ["Ps23CustomStringConvertible", "applicationWillEnterForeground"]
+- ["Ps23CustomStringConvertible", "applicationWillResignActive"]
+- ["Ps23CustomStringConvertible", "applicationWillTerminate"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "player"]
+- !private ["Ps23CustomStringConvertible", "sharedInstance"]
+- ["Ps23CustomStringConvertible", "window"]
+- ["Ps23CustomStringConvertible", ""]
+- !private ["Ps9Equatable", "MP3Player"]
+- ["Ps9Equatable", "application"]
+- ["Ps9Equatable", "applicationDidBecomeActive"]
+- ["Ps9Equatable", "applicationDidEnterBackground"]
+- ["Ps9Equatable", "applicationDidFinishLaunching"]
+- ["Ps9Equatable", "applicationDidReceiveMemoryWarning"]
+- ["Ps9Equatable", "applicationProtectedDataDidBecomeAvailable"]
+- ["Ps9Equatable", "applicationProtectedDataWillBecomeUnavailable"]
+- ["Ps9Equatable", "applicationShouldRequestHealthAuthorization"]
+- ["Ps9Equatable", "applicationSignificantTimeChange"]
+- ["Ps9Equatable", "applicationWillEnterForeground"]
+- ["Ps9Equatable", "applicationWillResignActive"]
+- ["Ps9Equatable", "applicationWillTerminate"]
+- !private ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "player"]
+- !private ["Ps9Equatable", "sharedInstance"]
+- ["Ps9Equatable", "window"]
+- ["Ps9Equatable", ""]
+- !private ["Ps8Hashable", "MP3Player"]
+- ["Ps8Hashable", "application"]
+- ["Ps8Hashable", "applicationDidBecomeActive"]
+- ["Ps8Hashable", "applicationDidEnterBackground"]
+- ["Ps8Hashable", "applicationDidFinishLaunching"]
+- ["Ps8Hashable", "applicationDidReceiveMemoryWarning"]
+- ["Ps8Hashable", "applicationProtectedDataDidBecomeAvailable"]
+- ["Ps8Hashable", "applicationProtectedDataWillBecomeUnavailable"]
+- ["Ps8Hashable", "applicationShouldRequestHealthAuthorization"]
+- ["Ps8Hashable", "applicationSignificantTimeChange"]
+- ["Ps8Hashable", "applicationWillEnterForeground"]
+- ["Ps8Hashable", "applicationWillResignActive"]
+- ["Ps8Hashable", "applicationWillTerminate"]
+- !private ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "player"]
+- !private ["Ps8Hashable", "sharedInstance"]
+- ["Ps8Hashable", "window"]
+- ["Ps8Hashable", ""]
+- !private ["C16AutoRepeatPlayer9MP3Player", "sharedInstance"]
+- ["CSo8NSObject", "Bool"]
+- ["CSo8NSObject", "MP3Player"]
+- ["CSo8NSObject", "UIApplication"]
+- ["CSo8NSObject", "UIApplicationLaunchOptionsKey"]
+- ["CSo8NSObject", "UIWindow"]
+- ["CSo8NSObject", "application"]
+- ["CSo8NSObject", "applicationDidBecomeActive"]
+- ["CSo8NSObject", "applicationDidEnterBackground"]
+- ["CSo8NSObject", "applicationDidFinishLaunching"]
+- ["CSo8NSObject", "applicationDidReceiveMemoryWarning"]
+- ["CSo8NSObject", "applicationProtectedDataDidBecomeAvailable"]
+- ["CSo8NSObject", "applicationProtectedDataWillBecomeUnavailable"]
+- ["CSo8NSObject", "applicationShouldRequestHealthAuthorization"]
+- ["CSo8NSObject", "applicationSignificantTimeChange"]
+- ["CSo8NSObject", "applicationWillEnterForeground"]
+- ["CSo8NSObject", "applicationWillResignActive"]
+- ["CSo8NSObject", "applicationWillTerminate"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "player"]
+- !private ["CSo8NSObject", "sharedInstance"]
+- ["CSo8NSObject", "window"]
+- !private ["PSo16NSObjectProtocol", "MP3Player"]
+- ["PSo16NSObjectProtocol", "application"]
+- ["PSo16NSObjectProtocol", "applicationDidBecomeActive"]
+- ["PSo16NSObjectProtocol", "applicationDidEnterBackground"]
+- ["PSo16NSObjectProtocol", "applicationDidFinishLaunching"]
+- ["PSo16NSObjectProtocol", "applicationDidReceiveMemoryWarning"]
+- ["PSo16NSObjectProtocol", "applicationProtectedDataDidBecomeAvailable"]
+- ["PSo16NSObjectProtocol", "applicationProtectedDataWillBecomeUnavailable"]
+- ["PSo16NSObjectProtocol", "applicationShouldRequestHealthAuthorization"]
+- ["PSo16NSObjectProtocol", "applicationSignificantTimeChange"]
+- ["PSo16NSObjectProtocol", "applicationWillEnterForeground"]
+- ["PSo16NSObjectProtocol", "applicationWillResignActive"]
+- ["PSo16NSObjectProtocol", "applicationWillTerminate"]
+- !private ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "player"]
+- !private ["PSo16NSObjectProtocol", "sharedInstance"]
+- ["PSo16NSObjectProtocol", "window"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["PSo21UIApplicationDelegate", "MP3Player"]
+- ["PSo21UIApplicationDelegate", "application"]
+- ["PSo21UIApplicationDelegate", "applicationDidBecomeActive"]
+- ["PSo21UIApplicationDelegate", "applicationDidEnterBackground"]
+- ["PSo21UIApplicationDelegate", "applicationDidFinishLaunching"]
+- ["PSo21UIApplicationDelegate", "applicationDidReceiveMemoryWarning"]
+- ["PSo21UIApplicationDelegate", "applicationProtectedDataDidBecomeAvailable"]
+- ["PSo21UIApplicationDelegate", "applicationProtectedDataWillBecomeUnavailable"]
+- ["PSo21UIApplicationDelegate", "applicationShouldRequestHealthAuthorization"]
+- ["PSo21UIApplicationDelegate", "applicationSignificantTimeChange"]
+- ["PSo21UIApplicationDelegate", "applicationWillEnterForeground"]
+- ["PSo21UIApplicationDelegate", "applicationWillResignActive"]
+- ["PSo21UIApplicationDelegate", "applicationWillTerminate"]
+- !private ["PSo21UIApplicationDelegate", "player"]
+- ["PSo21UIApplicationDelegate", "window"]
+- ["PSo21UIApplicationDelegate", ""]
+- ["CSo11UIResponder", "Bool"]
+- ["CSo11UIResponder", "MP3Player"]
+- ["CSo11UIResponder", "UIApplication"]
+- ["CSo11UIResponder", "UIApplicationLaunchOptionsKey"]
+- ["CSo11UIResponder", "UIWindow"]
+- ["CSo11UIResponder", "application"]
+- ["CSo11UIResponder", "applicationDidBecomeActive"]
+- ["CSo11UIResponder", "applicationDidEnterBackground"]
+- ["CSo11UIResponder", "applicationDidFinishLaunching"]
+- ["CSo11UIResponder", "applicationDidReceiveMemoryWarning"]
+- ["CSo11UIResponder", "applicationProtectedDataDidBecomeAvailable"]
+- ["CSo11UIResponder", "applicationProtectedDataWillBecomeUnavailable"]
+- ["CSo11UIResponder", "applicationShouldRequestHealthAuthorization"]
+- ["CSo11UIResponder", "applicationSignificantTimeChange"]
+- ["CSo11UIResponder", "applicationWillEnterForeground"]
+- ["CSo11UIResponder", "applicationWillResignActive"]
+- ["CSo11UIResponder", "applicationWillTerminate"]
+- ["CSo11UIResponder", "init"]
+- ["CSo11UIResponder", "player"]
+- ["CSo11UIResponder", "window"]
+- ["CSo11UIResponder", ""]
+- !private ["PSo30UIResponderStandardEditActions", "MP3Player"]
+- ["PSo30UIResponderStandardEditActions", "application"]
+- ["PSo30UIResponderStandardEditActions", "applicationDidBecomeActive"]
+- ["PSo30UIResponderStandardEditActions", "applicationDidEnterBackground"]
+- ["PSo30UIResponderStandardEditActions", "applicationDidFinishLaunching"]
+- ["PSo30UIResponderStandardEditActions", "applicationDidReceiveMemoryWarning"]
+- ["PSo30UIResponderStandardEditActions", "applicationProtectedDataDidBecomeAvailable"]
+- ["PSo30UIResponderStandardEditActions", "applicationProtectedDataWillBecomeUnavailable"]
+- ["PSo30UIResponderStandardEditActions", "applicationShouldRequestHealthAuthorization"]
+- ["PSo30UIResponderStandardEditActions", "applicationSignificantTimeChange"]
+- ["PSo30UIResponderStandardEditActions", "applicationWillEnterForeground"]
+- ["PSo30UIResponderStandardEditActions", "applicationWillResignActive"]
+- ["PSo30UIResponderStandardEditActions", "applicationWillTerminate"]
+- !private ["PSo30UIResponderStandardEditActions", "init"]
+- !private ["PSo30UIResponderStandardEditActions", "player"]
+- ["PSo30UIResponderStandardEditActions", "window"]
+- ["PSo30UIResponderStandardEditActions", ""]
+- !private ["Ps9_Hashable", "MP3Player"]
+- ["Ps9_Hashable", "application"]
+- ["Ps9_Hashable", "applicationDidBecomeActive"]
+- ["Ps9_Hashable", "applicationDidEnterBackground"]
+- ["Ps9_Hashable", "applicationDidFinishLaunching"]
+- ["Ps9_Hashable", "applicationDidReceiveMemoryWarning"]
+- ["Ps9_Hashable", "applicationProtectedDataDidBecomeAvailable"]
+- ["Ps9_Hashable", "applicationProtectedDataWillBecomeUnavailable"]
+- ["Ps9_Hashable", "applicationShouldRequestHealthAuthorization"]
+- ["Ps9_Hashable", "applicationSignificantTimeChange"]
+- ["Ps9_Hashable", "applicationWillEnterForeground"]
+- ["Ps9_Hashable", "applicationWillResignActive"]
+- ["Ps9_Hashable", "applicationWillTerminate"]
+- !private ["Ps9_Hashable", "init"]
+- !private ["Ps9_Hashable", "player"]
+- !private ["Ps9_Hashable", "sharedInstance"]
+- ["Ps9_Hashable", "window"]
+- ["Ps9_Hashable", ""]
+depends-nominal:
+- !private "PSo21AVAudioPlayerDelegate"
+- "Ps9AnyObject"
+- "C16AutoRepeatPlayer11AppDelegate"
+- "Ps7CVarArg"
+- "Ps28CustomDebugStringConvertible"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- "Ps8Hashable"
+- !private "C16AutoRepeatPlayer9MP3Player"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "PSo21UIApplicationDelegate"
+- "CSo11UIResponder"
+- "PSo30UIResponderStandardEditActions"
+- "Ps9_Hashable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/ObjectiveC.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Metal.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Foundation.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/AVFoundation.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/MediaPlayer.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreGraphics.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/UIKit.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/GLKit.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreText.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/AudioToolbox.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreMedia.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/simd.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Dispatch.swiftmodule"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Modules/AudioKit.swiftmodule/arm.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/AVFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreAudio.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/GLKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/SwiftOnoneSupport.swiftmodule"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/EZAudioPlotGL.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/EZAudioFFT.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/EZAudioFloatData.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/EZAudioDevice.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/EZAudioFile.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKMicrophoneTrackerEngine.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/EZMicrophone.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKSporthStack.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/EZAudioDisplayLink.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/EZAudio.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/AutoRepeatPlayer/AutoRepeatPlayer-Bridging-Header.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/EZRecorder.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/TPCircularBuffer.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/EZAudioFileMarker.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKOfflineRenderer.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/EZAudioFloatConverter.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/EZAudioPlayer.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/EZAudioUtilities.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AudioKit-Swift.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AudioKit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKZitaReverbAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKFlatFrequencyResponseReverbAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKChowningReverbAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKCostelloReverbAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKCombFilterReverbAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKAmplitudeEnvelopeAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKWhiteNoiseAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKPinkNoiseAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKBrownianNoiseAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKFluteAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKPluckedStringAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKAutoWahAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKDCBlockAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKOscillatorBankAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKFMOscillatorBankAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKPWMOscillatorBankAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKMorphingOscillatorBankAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKPhaseDistortionOscillatorBankAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKMandolinAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKTanhDistortionAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKConvolutionAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKTremoloAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKRhodesPianoAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKDripAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKMetalBarAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKBalancerAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKMoogLadderAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKPhaseLockedVocoderAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKBitCrusherAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKShakerAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKAmplitudeTrackerAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKFrequencyTrackerAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKPannerAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKClipperAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKPhaserAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKPitchShifterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKStereoFieldLimiterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKRolandTB303FilterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKModalResonanceFilterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKToneFilterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKBandPassButterworthFilterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKHighPassButterworthFilterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKLowPassButterworthFilterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKBandRejectButterworthFilterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKEqualizerFilterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKHighShelfParametricEqualizerFilterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKLowShelfParametricEqualizerFilterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKPeakingParametricEqualizerFilterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKKorgLowPassFilterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKThreePoleLowpassFilterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKFormantFilterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKResonantFilterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKToneComplementFilterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKTesterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKBoosterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKSamplePlayerAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKDynamicRangeCompressorAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKOscillatorAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKFMOscillatorAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKPWMOscillatorAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKMorphingOscillatorAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKPhaseDistortionOscillatorAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKStringResonatorAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKOperationGeneratorAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKTubularBellsAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKVocalTractAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKOperationEffectAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKClarinetAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKVariableDelayAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/EZPlot.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/EZAudioPlot.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/EZOutput.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Modules/module.modulemap"
+interface-hash: "68307aa750ac373e54223b7359618afc"

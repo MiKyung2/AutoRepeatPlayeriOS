@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/AutoRepeatPlayer-ghfutkonocozfldgjvixviesecpc/Build/Products/Debug-iphoneos/MyDrawKit.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "MyDrawKit-Swift.h",
+          'external-contents': "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/AutoRepeatPlayer-ghfutkonocozfldgjvixviesecpc/Build/Products/Debug-iphoneos/MyDrawKit.framework/Headers/MyDrawKit-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "MyDrawKit.h",
+          'external-contents': "/Users/jmk/Desktop/AutoRepeatPlayer2/MyDrawKit/MyDrawKit.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/AutoRepeatPlayer-ghfutkonocozfldgjvixviesecpc/Build/Products/Debug-iphoneos/MyDrawKit.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/AutoRepeatPlayer-ghfutkonocozfldgjvixviesecpc/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/MyDrawKit.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

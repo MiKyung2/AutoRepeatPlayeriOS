@@ -1,0 +1,516 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "SlideInPresentationAnimator"
+provides-nominal:
+- "C16AutoRepeatPlayer27SlideInPresentationAnimator"
+provides-member:
+- ["C16AutoRepeatPlayer27SlideInPresentationAnimator", ""]
+provides-dynamic-lookup:
+- "animateTransition"
+- "isPresentation"
+- "transitionDuration"
+depends-top-level:
+- !private "-"
+- "AssignmentPrecedence"
+- "Bool"
+- "NSObject"
+- "PresentationDirection"
+- "SlideInPresentationAnimator"
+- !private "StringLiteralType"
+- "TernaryPrecedence"
+- "TimeInterval"
+- !private "UITransitionContextViewControllerKey"
+- !private "UIView"
+- "UIViewControllerAnimatedTransitioning"
+- "UIViewControllerContextTransitioning"
+depends-member:
+- !private ["Ps9AnyObject", "UITransitionContextViewControllerKey"]
+- !private ["Ps9AnyObject", "UIView"]
+- !private ["Ps9AnyObject", "addSubview"]
+- !private ["Ps9AnyObject", "animate"]
+- ["Ps9AnyObject", "animateTransition"]
+- ["Ps9AnyObject", "animationEnded"]
+- !private ["Ps9AnyObject", "direction"]
+- !private ["Ps9AnyObject", "frame"]
+- !private ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", "interruptibleAnimator"]
+- ["Ps9AnyObject", "interruptibleAnimatorForTransition"]
+- !private ["Ps9AnyObject", "isPresentation"]
+- ["Ps9AnyObject", "transitionDuration"]
+- !private ["Ps9AnyObject", "view"]
+- ["Ps9AnyObject", ""]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["PSo15CALayerDelegate", "addSubview"]
+- !private ["PSo15CALayerDelegate", "animate"]
+- !private ["PSo15CALayerDelegate", "frame"]
+- !private ["VSC7CGPoint", "x"]
+- !private ["VSC7CGPoint", "y"]
+- !private ["VSC6CGRect", "height"]
+- !private ["VSC6CGRect", "origin"]
+- !private ["VSC6CGRect", "size"]
+- !private ["VSC6CGRect", "width"]
+- !private ["VSC6CGSize", "height"]
+- !private ["VSC6CGSize", "width"]
+- !private ["Ps7CVarArg", "UITransitionContextViewControllerKey"]
+- !private ["Ps7CVarArg", "UIView"]
+- !private ["Ps7CVarArg", "addSubview"]
+- !private ["Ps7CVarArg", "animate"]
+- ["Ps7CVarArg", "animateTransition"]
+- ["Ps7CVarArg", "animationEnded"]
+- !private ["Ps7CVarArg", "direction"]
+- !private ["Ps7CVarArg", "frame"]
+- !private ["Ps7CVarArg", "init"]
+- ["Ps7CVarArg", "interruptibleAnimator"]
+- ["Ps7CVarArg", "interruptibleAnimatorForTransition"]
+- !private ["Ps7CVarArg", "isPresentation"]
+- ["Ps7CVarArg", "transitionDuration"]
+- !private ["Ps7CVarArg", "view"]
+- ["Ps7CVarArg", ""]
+- !private ["Ps10Comparable", "from"]
+- !private ["Ps10Comparable", "to"]
+- !private ["Ps28CustomDebugStringConvertible", "UITransitionContextViewControllerKey"]
+- !private ["Ps28CustomDebugStringConvertible", "UIView"]
+- !private ["Ps28CustomDebugStringConvertible", "addSubview"]
+- !private ["Ps28CustomDebugStringConvertible", "animate"]
+- ["Ps28CustomDebugStringConvertible", "animateTransition"]
+- ["Ps28CustomDebugStringConvertible", "animationEnded"]
+- !private ["Ps28CustomDebugStringConvertible", "direction"]
+- !private ["Ps28CustomDebugStringConvertible", "frame"]
+- !private ["Ps28CustomDebugStringConvertible", "height"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- ["Ps28CustomDebugStringConvertible", "interruptibleAnimator"]
+- ["Ps28CustomDebugStringConvertible", "interruptibleAnimatorForTransition"]
+- !private ["Ps28CustomDebugStringConvertible", "isPresentation"]
+- !private ["Ps28CustomDebugStringConvertible", "origin"]
+- !private ["Ps28CustomDebugStringConvertible", "size"]
+- ["Ps28CustomDebugStringConvertible", "transitionDuration"]
+- !private ["Ps28CustomDebugStringConvertible", "view"]
+- !private ["Ps28CustomDebugStringConvertible", "width"]
+- !private ["Ps28CustomDebugStringConvertible", "x"]
+- !private ["Ps28CustomDebugStringConvertible", "y"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps29CustomPlaygroundQuickLookable", "_getBuiltinLogicValue"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "height"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "origin"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "size"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "width"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "x"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "y"]
+- !private ["Ps17CustomReflectable", "_getBuiltinLogicValue"]
+- !private ["Ps17CustomReflectable", "height"]
+- !private ["Ps17CustomReflectable", "init"]
+- !private ["Ps17CustomReflectable", "origin"]
+- !private ["Ps17CustomReflectable", "size"]
+- !private ["Ps17CustomReflectable", "width"]
+- !private ["Ps17CustomReflectable", "x"]
+- !private ["Ps17CustomReflectable", "y"]
+- !private ["Ps23CustomStringConvertible", "UITransitionContextViewControllerKey"]
+- !private ["Ps23CustomStringConvertible", "UIView"]
+- !private ["Ps23CustomStringConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps23CustomStringConvertible", "addSubview"]
+- !private ["Ps23CustomStringConvertible", "animate"]
+- ["Ps23CustomStringConvertible", "animateTransition"]
+- ["Ps23CustomStringConvertible", "animationEnded"]
+- !private ["Ps23CustomStringConvertible", "direction"]
+- !private ["Ps23CustomStringConvertible", "frame"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- ["Ps23CustomStringConvertible", "interruptibleAnimator"]
+- ["Ps23CustomStringConvertible", "interruptibleAnimatorForTransition"]
+- !private ["Ps23CustomStringConvertible", "isPresentation"]
+- ["Ps23CustomStringConvertible", "transitionDuration"]
+- !private ["Ps23CustomStringConvertible", "view"]
+- ["Ps23CustomStringConvertible", ""]
+- !private ["Ps9Equatable", "UITransitionContextViewControllerKey"]
+- !private ["Ps9Equatable", "UIView"]
+- !private ["Ps9Equatable", "_getBuiltinLogicValue"]
+- !private ["Ps9Equatable", "addSubview"]
+- !private ["Ps9Equatable", "animate"]
+- ["Ps9Equatable", "animateTransition"]
+- ["Ps9Equatable", "animationEnded"]
+- ["Ps9Equatable", "bottom"]
+- !private ["Ps9Equatable", "direction"]
+- !private ["Ps9Equatable", "frame"]
+- !private ["Ps9Equatable", "from"]
+- !private ["Ps9Equatable", "height"]
+- !private ["Ps9Equatable", "init"]
+- ["Ps9Equatable", "interruptibleAnimator"]
+- ["Ps9Equatable", "interruptibleAnimatorForTransition"]
+- !private ["Ps9Equatable", "isPresentation"]
+- ["Ps9Equatable", "left"]
+- !private ["Ps9Equatable", "origin"]
+- ["Ps9Equatable", "right"]
+- !private ["Ps9Equatable", "size"]
+- !private ["Ps9Equatable", "to"]
+- ["Ps9Equatable", "top"]
+- ["Ps9Equatable", "transitionDuration"]
+- !private ["Ps9Equatable", "view"]
+- !private ["Ps9Equatable", "width"]
+- !private ["Ps9Equatable", "x"]
+- !private ["Ps9Equatable", "y"]
+- ["Ps9Equatable", ""]
+- !private ["Ps27ExpressibleByBooleanLiteral", "_getBuiltinLogicValue"]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps26ExpressibleByStringLiteral", "init"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- !private ["Ps8Hashable", "UITransitionContextViewControllerKey"]
+- !private ["Ps8Hashable", "UIView"]
+- !private ["Ps8Hashable", "_getBuiltinLogicValue"]
+- !private ["Ps8Hashable", "addSubview"]
+- !private ["Ps8Hashable", "animate"]
+- ["Ps8Hashable", "animateTransition"]
+- ["Ps8Hashable", "animationEnded"]
+- ["Ps8Hashable", "bottom"]
+- !private ["Ps8Hashable", "direction"]
+- !private ["Ps8Hashable", "frame"]
+- !private ["Ps8Hashable", "from"]
+- !private ["Ps8Hashable", "init"]
+- ["Ps8Hashable", "interruptibleAnimator"]
+- ["Ps8Hashable", "interruptibleAnimatorForTransition"]
+- !private ["Ps8Hashable", "isPresentation"]
+- ["Ps8Hashable", "left"]
+- ["Ps8Hashable", "right"]
+- !private ["Ps8Hashable", "to"]
+- ["Ps8Hashable", "top"]
+- ["Ps8Hashable", "transitionDuration"]
+- !private ["Ps8Hashable", "view"]
+- ["Ps8Hashable", ""]
+- !private ["Ps25LosslessStringConvertible", "_getBuiltinLogicValue"]
+- !private ["PSo8NSCoding", "addSubview"]
+- !private ["PSo8NSCoding", "animate"]
+- !private ["PSo8NSCoding", "frame"]
+- !private ["PSo8NSCoding", "view"]
+- !private ["PSo26NSExtensionRequestHandling", "view"]
+- ["CSo8NSObject", "Bool"]
+- ["CSo8NSObject", "PresentationDirection"]
+- ["CSo8NSObject", "TimeInterval"]
+- !private ["CSo8NSObject", "UITransitionContextViewControllerKey"]
+- !private ["CSo8NSObject", "UIView"]
+- ["CSo8NSObject", "UIViewControllerContextTransitioning"]
+- !private ["CSo8NSObject", "addSubview"]
+- !private ["CSo8NSObject", "animate"]
+- ["CSo8NSObject", "animateTransition"]
+- ["CSo8NSObject", "animationEnded"]
+- ["CSo8NSObject", "direction"]
+- !private ["CSo8NSObject", "frame"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "interruptibleAnimator"]
+- ["CSo8NSObject", "interruptibleAnimatorForTransition"]
+- ["CSo8NSObject", "isPresentation"]
+- ["CSo8NSObject", "transitionDuration"]
+- !private ["CSo8NSObject", "view"]
+- ["CSo8NSObject", ""]
+- !private ["PSo16NSObjectProtocol", "UITransitionContextViewControllerKey"]
+- !private ["PSo16NSObjectProtocol", "UIView"]
+- !private ["PSo16NSObjectProtocol", "addSubview"]
+- !private ["PSo16NSObjectProtocol", "animate"]
+- ["PSo16NSObjectProtocol", "animateTransition"]
+- ["PSo16NSObjectProtocol", "animationEnded"]
+- !private ["PSo16NSObjectProtocol", "completeTransition"]
+- !private ["PSo16NSObjectProtocol", "containerView"]
+- !private ["PSo16NSObjectProtocol", "direction"]
+- !private ["PSo16NSObjectProtocol", "finalFrame"]
+- !private ["PSo16NSObjectProtocol", "frame"]
+- !private ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "interruptibleAnimator"]
+- ["PSo16NSObjectProtocol", "interruptibleAnimatorForTransition"]
+- !private ["PSo16NSObjectProtocol", "isPresentation"]
+- ["PSo16NSObjectProtocol", "transitionDuration"]
+- !private ["PSo16NSObjectProtocol", "view"]
+- !private ["PSo16NSObjectProtocol", "viewController"]
+- ["PSo16NSObjectProtocol", ""]
+- ["O16AutoRepeatPlayer21PresentationDirection", "bottom"]
+- ["O16AutoRepeatPlayer21PresentationDirection", "left"]
+- ["O16AutoRepeatPlayer21PresentationDirection", "right"]
+- ["O16AutoRepeatPlayer21PresentationDirection", "top"]
+- !private ["Ps16RawRepresentable", "from"]
+- !private ["Ps16RawRepresentable", "to"]
+- ["C16AutoRepeatPlayer27SlideInPresentationAnimator", "Bool"]
+- ["C16AutoRepeatPlayer27SlideInPresentationAnimator", "PresentationDirection"]
+- ["C16AutoRepeatPlayer27SlideInPresentationAnimator", "TimeInterval"]
+- !private ["C16AutoRepeatPlayer27SlideInPresentationAnimator", "UITransitionContextViewControllerKey"]
+- !private ["C16AutoRepeatPlayer27SlideInPresentationAnimator", "UIView"]
+- ["C16AutoRepeatPlayer27SlideInPresentationAnimator", "UIViewControllerContextTransitioning"]
+- ["C16AutoRepeatPlayer27SlideInPresentationAnimator", "animateTransition"]
+- ["C16AutoRepeatPlayer27SlideInPresentationAnimator", "animationEnded"]
+- ["C16AutoRepeatPlayer27SlideInPresentationAnimator", "deinit"]
+- ["C16AutoRepeatPlayer27SlideInPresentationAnimator", "direction"]
+- ["C16AutoRepeatPlayer27SlideInPresentationAnimator", "init"]
+- ["C16AutoRepeatPlayer27SlideInPresentationAnimator", "interruptibleAnimator"]
+- ["C16AutoRepeatPlayer27SlideInPresentationAnimator", "interruptibleAnimatorForTransition"]
+- ["C16AutoRepeatPlayer27SlideInPresentationAnimator", "isPresentation"]
+- ["C16AutoRepeatPlayer27SlideInPresentationAnimator", "transitionDuration"]
+- !private ["Vs12StaticString", "init"]
+- !private ["PSo29UIAccessibilityIdentification", "addSubview"]
+- !private ["PSo29UIAccessibilityIdentification", "animate"]
+- !private ["PSo29UIAccessibilityIdentification", "frame"]
+- !private ["PSo12UIAppearance", "addSubview"]
+- !private ["PSo12UIAppearance", "animate"]
+- !private ["PSo12UIAppearance", "frame"]
+- !private ["PSo21UIAppearanceContainer", "addSubview"]
+- !private ["PSo21UIAppearanceContainer", "animate"]
+- !private ["PSo21UIAppearanceContainer", "frame"]
+- !private ["PSo21UIAppearanceContainer", "view"]
+- !private ["PSo18UIContentContainer", "view"]
+- !private ["PSo17UICoordinateSpace", "addSubview"]
+- !private ["PSo17UICoordinateSpace", "animate"]
+- !private ["PSo17UICoordinateSpace", "frame"]
+- !private ["PSo13UIDynamicItem", "addSubview"]
+- !private ["PSo13UIDynamicItem", "animate"]
+- !private ["PSo13UIDynamicItem", "frame"]
+- !private ["PSo18UIFocusEnvironment", "addSubview"]
+- !private ["PSo18UIFocusEnvironment", "animate"]
+- !private ["PSo18UIFocusEnvironment", "frame"]
+- !private ["PSo18UIFocusEnvironment", "view"]
+- !private ["PSo11UIFocusItem", "addSubview"]
+- !private ["PSo11UIFocusItem", "animate"]
+- !private ["PSo11UIFocusItem", "frame"]
+- !private ["CSo11UIResponder", "addSubview"]
+- !private ["CSo11UIResponder", "animate"]
+- !private ["CSo11UIResponder", "frame"]
+- !private ["CSo11UIResponder", "view"]
+- !private ["PSo30UIResponderStandardEditActions", "addSubview"]
+- !private ["PSo30UIResponderStandardEditActions", "animate"]
+- !private ["PSo30UIResponderStandardEditActions", "frame"]
+- !private ["PSo30UIResponderStandardEditActions", "view"]
+- !private ["PSo16UIStateRestoring", "view"]
+- !private ["PSo18UITraitEnvironment", "addSubview"]
+- !private ["PSo18UITraitEnvironment", "animate"]
+- !private ["PSo18UITraitEnvironment", "frame"]
+- !private ["PSo18UITraitEnvironment", "view"]
+- !private ["VSC36UITransitionContextViewControllerKey", "from"]
+- !private ["VSC36UITransitionContextViewControllerKey", "to"]
+- !private ["CSo6UIView", "addSubview"]
+- !private ["CSo6UIView", "animate"]
+- !private ["CSo6UIView", "frame"]
+- !private ["CSo16UIViewController", "view"]
+- !private ["PSo37UIViewControllerAnimatedTransitioning", "UITransitionContextViewControllerKey"]
+- !private ["PSo37UIViewControllerAnimatedTransitioning", "UIView"]
+- ["PSo37UIViewControllerAnimatedTransitioning", "animateTransition"]
+- ["PSo37UIViewControllerAnimatedTransitioning", "animationEnded"]
+- !private ["PSo37UIViewControllerAnimatedTransitioning", "direction"]
+- ["PSo37UIViewControllerAnimatedTransitioning", "interruptibleAnimator"]
+- ["PSo37UIViewControllerAnimatedTransitioning", "interruptibleAnimatorForTransition"]
+- !private ["PSo37UIViewControllerAnimatedTransitioning", "isPresentation"]
+- ["PSo37UIViewControllerAnimatedTransitioning", "transitionDuration"]
+- ["PSo37UIViewControllerAnimatedTransitioning", ""]
+- !private ["PSo36UIViewControllerContextTransitioning", "completeTransition"]
+- !private ["PSo36UIViewControllerContextTransitioning", "containerView"]
+- !private ["PSo36UIViewControllerContextTransitioning", "finalFrame"]
+- !private ["PSo36UIViewControllerContextTransitioning", "viewController"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "addSubview"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "animate"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "frame"]
+- !private ["Ps35_ExpressibleByBuiltinBooleanLiteral", "_getBuiltinLogicValue"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- !private ["Ps9_Hashable", "UITransitionContextViewControllerKey"]
+- !private ["Ps9_Hashable", "UIView"]
+- !private ["Ps9_Hashable", "_getBuiltinLogicValue"]
+- !private ["Ps9_Hashable", "addSubview"]
+- !private ["Ps9_Hashable", "animate"]
+- ["Ps9_Hashable", "animateTransition"]
+- ["Ps9_Hashable", "animationEnded"]
+- ["Ps9_Hashable", "bottom"]
+- !private ["Ps9_Hashable", "direction"]
+- !private ["Ps9_Hashable", "frame"]
+- !private ["Ps9_Hashable", "from"]
+- !private ["Ps9_Hashable", "init"]
+- ["Ps9_Hashable", "interruptibleAnimator"]
+- ["Ps9_Hashable", "interruptibleAnimatorForTransition"]
+- !private ["Ps9_Hashable", "isPresentation"]
+- ["Ps9_Hashable", "left"]
+- ["Ps9_Hashable", "right"]
+- !private ["Ps9_Hashable", "to"]
+- ["Ps9_Hashable", "top"]
+- ["Ps9_Hashable", "transitionDuration"]
+- !private ["Ps9_Hashable", "view"]
+- ["Ps9_Hashable", ""]
+- !private ["Ps21_ObjectiveCBridgeable", "_getBuiltinLogicValue"]
+- !private ["Ps21_ObjectiveCBridgeable", "from"]
+- !private ["Ps21_ObjectiveCBridgeable", "height"]
+- !private ["Ps21_ObjectiveCBridgeable", "origin"]
+- !private ["Ps21_ObjectiveCBridgeable", "size"]
+- !private ["Ps21_ObjectiveCBridgeable", "to"]
+- !private ["Ps21_ObjectiveCBridgeable", "width"]
+- !private ["Ps21_ObjectiveCBridgeable", "x"]
+- !private ["Ps21_ObjectiveCBridgeable", "y"]
+- !private ["Ps20_SwiftNewtypeWrapper", "from"]
+- !private ["Ps20_SwiftNewtypeWrapper", "to"]
+depends-nominal:
+- "Ps9AnyObject"
+- !private "Sb"
+- !private "PSo15CALayerDelegate"
+- !private "VSC7CGPoint"
+- !private "VSC6CGRect"
+- !private "VSC6CGSize"
+- "Ps7CVarArg"
+- !private "Ps10Comparable"
+- "Ps28CustomDebugStringConvertible"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- !private "Ps27ExpressibleByBooleanLiteral"
+- !private "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- !private "Ps26ExpressibleByStringLiteral"
+- !private "Ps33ExpressibleByUnicodeScalarLiteral"
+- "Ps8Hashable"
+- !private "Ps25LosslessStringConvertible"
+- !private "PSo8NSCoding"
+- !private "PSo26NSExtensionRequestHandling"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "O16AutoRepeatPlayer21PresentationDirection"
+- !private "Ps16RawRepresentable"
+- "C16AutoRepeatPlayer27SlideInPresentationAnimator"
+- !private "Vs12StaticString"
+- !private "PSo29UIAccessibilityIdentification"
+- !private "PSo12UIAppearance"
+- !private "PSo21UIAppearanceContainer"
+- !private "PSo18UIContentContainer"
+- !private "PSo17UICoordinateSpace"
+- !private "PSo13UIDynamicItem"
+- !private "PSo18UIFocusEnvironment"
+- !private "PSo11UIFocusItem"
+- !private "CSo11UIResponder"
+- !private "PSo30UIResponderStandardEditActions"
+- !private "PSo16UIStateRestoring"
+- !private "PSo18UITraitEnvironment"
+- !private "VSC36UITransitionContextViewControllerKey"
+- !private "CSo6UIView"
+- !private "CSo16UIViewController"
+- "PSo37UIViewControllerAnimatedTransitioning"
+- !private "PSo36UIViewControllerContextTransitioning"
+- !private "Ps37_DefaultCustomPlaygroundQuickLookable"
+- !private "Ps35_ExpressibleByBuiltinBooleanLiteral"
+- !private "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- !private "Ps34_ExpressibleByBuiltinStringLiteral"
+- !private "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- "Ps9_Hashable"
+- !private "Ps21_ObjectiveCBridgeable"
+- !private "Ps20_SwiftNewtypeWrapper"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/ObjectiveC.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Metal.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Foundation.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/AVFoundation.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/MediaPlayer.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreGraphics.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/UIKit.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/GLKit.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreText.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/AudioToolbox.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreMedia.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/simd.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Dispatch.swiftmodule"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Modules/AudioKit.swiftmodule/arm.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/AVFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreAudio.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/GLKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/SwiftOnoneSupport.swiftmodule"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/EZAudioPlotGL.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/EZAudioFFT.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/EZAudioFloatData.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/EZAudioDevice.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/EZAudioFile.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKMicrophoneTrackerEngine.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/EZMicrophone.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKSporthStack.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/EZAudioDisplayLink.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/EZAudio.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/AutoRepeatPlayer/AutoRepeatPlayer-Bridging-Header.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/EZRecorder.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/TPCircularBuffer.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/EZAudioFileMarker.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKOfflineRenderer.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/EZAudioFloatConverter.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/EZAudioPlayer.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/EZAudioUtilities.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AudioKit-Swift.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AudioKit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKZitaReverbAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKFlatFrequencyResponseReverbAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKChowningReverbAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKCostelloReverbAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKCombFilterReverbAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKAmplitudeEnvelopeAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKWhiteNoiseAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKPinkNoiseAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKBrownianNoiseAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKFluteAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKPluckedStringAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKAutoWahAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKDCBlockAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKOscillatorBankAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKFMOscillatorBankAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKPWMOscillatorBankAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKMorphingOscillatorBankAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKPhaseDistortionOscillatorBankAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKMandolinAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKTanhDistortionAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKConvolutionAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKTremoloAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKRhodesPianoAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKDripAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKMetalBarAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKBalancerAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKMoogLadderAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKPhaseLockedVocoderAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKBitCrusherAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKShakerAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKAmplitudeTrackerAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKFrequencyTrackerAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKPannerAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKClipperAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKPhaserAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKPitchShifterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKStereoFieldLimiterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKRolandTB303FilterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKModalResonanceFilterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKToneFilterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKBandPassButterworthFilterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKHighPassButterworthFilterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKLowPassButterworthFilterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKBandRejectButterworthFilterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKEqualizerFilterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKHighShelfParametricEqualizerFilterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKLowShelfParametricEqualizerFilterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKPeakingParametricEqualizerFilterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKKorgLowPassFilterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKThreePoleLowpassFilterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKFormantFilterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKResonantFilterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKToneComplementFilterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKTesterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKBoosterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKSamplePlayerAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKDynamicRangeCompressorAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKOscillatorAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKFMOscillatorAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKPWMOscillatorAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKMorphingOscillatorAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKPhaseDistortionOscillatorAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKStringResonatorAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKOperationGeneratorAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKTubularBellsAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKVocalTractAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKOperationEffectAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKClarinetAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKVariableDelayAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/EZPlot.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/EZAudioPlot.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/EZOutput.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Modules/module.modulemap"
+interface-hash: "59c0d7f8b6a352b2c24ad5e60c74da8e"

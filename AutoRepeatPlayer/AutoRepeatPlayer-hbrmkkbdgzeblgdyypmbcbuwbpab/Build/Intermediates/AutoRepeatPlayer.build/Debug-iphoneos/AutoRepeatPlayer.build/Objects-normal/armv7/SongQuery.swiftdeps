@@ -1,0 +1,523 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "SongInfo"
+- "AlbumInfo"
+- "SongQuery"
+provides-nominal:
+- "V16AutoRepeatPlayer8SongInfo"
+- "V16AutoRepeatPlayer9AlbumInfo"
+- "C16AutoRepeatPlayer9SongQuery"
+provides-member:
+- ["V16AutoRepeatPlayer8SongInfo", ""]
+- ["V16AutoRepeatPlayer9AlbumInfo", ""]
+- ["C16AutoRepeatPlayer9SongQuery", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "-"
+- !private "=="
+- "AlbumInfo"
+- "AssignmentPrecedence"
+- "CastingPrecedence"
+- "Int"
+- "MPMediaItem"
+- "MPMediaItemArtwork"
+- "MPMediaItemCollection"
+- !private "MPMediaItemPropertyAlbumArtist"
+- !private "MPMediaItemPropertyAlbumTitle"
+- !private "MPMediaItemPropertyAlbumTrackCount"
+- !private "MPMediaItemPropertyArtist"
+- !private "MPMediaItemPropertyArtwork"
+- !private "MPMediaItemPropertyAssetURL"
+- !private "MPMediaItemPropertyPersistentID"
+- !private "MPMediaItemPropertyTitle"
+- !private "MPMediaPropertyPredicate"
+- !private "MPMediaQuery"
+- "NSNumber"
+- "NSURL"
+- "SongInfo"
+- "SongQuery"
+- "String"
+- !private "StringLiteralType"
+depends-member:
+- ["V16AutoRepeatPlayer9AlbumInfo", "Int"]
+- ["V16AutoRepeatPlayer9AlbumInfo", "SongInfo"]
+- ["V16AutoRepeatPlayer9AlbumInfo", "String"]
+- ["V16AutoRepeatPlayer9AlbumInfo", "albumArtist"]
+- ["V16AutoRepeatPlayer9AlbumInfo", "albumTitle"]
+- ["V16AutoRepeatPlayer9AlbumInfo", "albumTrackCount"]
+- ["V16AutoRepeatPlayer9AlbumInfo", "init"]
+- ["V16AutoRepeatPlayer9AlbumInfo", "songs"]
+- !private ["Ps9AnyObject", "AlbumInfo"]
+- !private ["Ps9AnyObject", "MPMediaItemPropertyAlbumArtist"]
+- !private ["Ps9AnyObject", "MPMediaItemPropertyAlbumTitle"]
+- !private ["Ps9AnyObject", "MPMediaItemPropertyAlbumTrackCount"]
+- !private ["Ps9AnyObject", "MPMediaItemPropertyArtist"]
+- !private ["Ps9AnyObject", "MPMediaItemPropertyArtwork"]
+- !private ["Ps9AnyObject", "MPMediaItemPropertyAssetURL"]
+- !private ["Ps9AnyObject", "MPMediaItemPropertyPersistentID"]
+- !private ["Ps9AnyObject", "MPMediaItemPropertyTitle"]
+- !private ["Ps9AnyObject", "MPMediaPropertyPredicate"]
+- !private ["Ps9AnyObject", "MPMediaQuery"]
+- !private ["Ps9AnyObject", "SongInfo"]
+- !private ["Ps9AnyObject", "addFilterPredicate"]
+- !private ["Ps9AnyObject", "albums"]
+- !private ["Ps9AnyObject", "artists"]
+- !private ["Ps9AnyObject", "collections"]
+- !private ["Ps9AnyObject", "convertAlbum"]
+- !private ["Ps9AnyObject", "convertArtist"]
+- !private ["Ps9AnyObject", "convertPlaylist"]
+- !private ["Ps9AnyObject", "convertSong"]
+- !private ["Ps9AnyObject", "genres"]
+- !private ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "items"]
+- !private ["Ps9AnyObject", "playlists"]
+- !private ["Ps9AnyObject", "songs"]
+- !private ["Ps9AnyObject", "value"]
+- ["Ps9AnyObject", ""]
+- !private ["Sa", "append"]
+- !private ["Sa", "count"]
+- !private ["Sa", "subscript"]
+- !private ["Ps23BidirectionalCollection", "append"]
+- !private ["Ps23BidirectionalCollection", "count"]
+- !private ["Ps23BidirectionalCollection", "subscript"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["Ps7CVarArg", "addFilterPredicate"]
+- !private ["Ps7CVarArg", "albums"]
+- !private ["Ps7CVarArg", "append"]
+- !private ["Ps7CVarArg", "artists"]
+- !private ["Ps7CVarArg", "collections"]
+- !private ["Ps7CVarArg", "count"]
+- !private ["Ps7CVarArg", "genres"]
+- !private ["Ps7CVarArg", "init"]
+- !private ["Ps7CVarArg", "items"]
+- !private ["Ps7CVarArg", "playlists"]
+- !private ["Ps7CVarArg", "songs"]
+- !private ["Ps7CVarArg", "subscript"]
+- !private ["Ps7CVarArg", "value"]
+- !private ["Ps10Collection", "append"]
+- !private ["Ps10Collection", "count"]
+- !private ["Ps10Collection", "subscript"]
+- !private ["Ps10Comparable", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "addFilterPredicate"]
+- !private ["Ps28CustomDebugStringConvertible", "albums"]
+- !private ["Ps28CustomDebugStringConvertible", "append"]
+- !private ["Ps28CustomDebugStringConvertible", "artists"]
+- !private ["Ps28CustomDebugStringConvertible", "collections"]
+- !private ["Ps28CustomDebugStringConvertible", "count"]
+- !private ["Ps28CustomDebugStringConvertible", "genres"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "items"]
+- !private ["Ps28CustomDebugStringConvertible", "playlists"]
+- !private ["Ps28CustomDebugStringConvertible", "songs"]
+- !private ["Ps28CustomDebugStringConvertible", "subscript"]
+- !private ["Ps28CustomDebugStringConvertible", "value"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "_getBuiltinLogicValue"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "init"]
+- !private ["Ps17CustomReflectable", "_getBuiltinLogicValue"]
+- !private ["Ps17CustomReflectable", "append"]
+- !private ["Ps17CustomReflectable", "count"]
+- !private ["Ps17CustomReflectable", "init"]
+- !private ["Ps17CustomReflectable", "subscript"]
+- !private ["Ps23CustomStringConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps23CustomStringConvertible", "addFilterPredicate"]
+- !private ["Ps23CustomStringConvertible", "albums"]
+- !private ["Ps23CustomStringConvertible", "append"]
+- !private ["Ps23CustomStringConvertible", "artists"]
+- !private ["Ps23CustomStringConvertible", "collections"]
+- !private ["Ps23CustomStringConvertible", "count"]
+- !private ["Ps23CustomStringConvertible", "genres"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "items"]
+- !private ["Ps23CustomStringConvertible", "playlists"]
+- !private ["Ps23CustomStringConvertible", "songs"]
+- !private ["Ps23CustomStringConvertible", "subscript"]
+- !private ["Ps23CustomStringConvertible", "value"]
+- !private ["Ps9Equatable", "_getBuiltinLogicValue"]
+- !private ["Ps9Equatable", "addFilterPredicate"]
+- !private ["Ps9Equatable", "albums"]
+- !private ["Ps9Equatable", "artists"]
+- !private ["Ps9Equatable", "collections"]
+- !private ["Ps9Equatable", "genres"]
+- !private ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "items"]
+- !private ["Ps9Equatable", "playlists"]
+- !private ["Ps9Equatable", "songs"]
+- !private ["Ps9Equatable", "value"]
+- !private ["Ps25ExpressibleByArrayLiteral", "append"]
+- !private ["Ps25ExpressibleByArrayLiteral", "count"]
+- !private ["Ps25ExpressibleByArrayLiteral", "subscript"]
+- !private ["Ps27ExpressibleByBooleanLiteral", "_getBuiltinLogicValue"]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps26ExpressibleByStringLiteral", "init"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- !private ["Ps8Hashable", "_getBuiltinLogicValue"]
+- !private ["Ps8Hashable", "addFilterPredicate"]
+- !private ["Ps8Hashable", "albums"]
+- !private ["Ps8Hashable", "artists"]
+- !private ["Ps8Hashable", "collections"]
+- !private ["Ps8Hashable", "genres"]
+- !private ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "items"]
+- !private ["Ps8Hashable", "playlists"]
+- !private ["Ps8Hashable", "songs"]
+- !private ["Ps8Hashable", "value"]
+- !private ["Ps25LosslessStringConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps25LosslessStringConvertible", "init"]
+- !private ["CSo13MPMediaEntity", "items"]
+- !private ["CSo13MPMediaEntity", "value"]
+- !private ["CSo11MPMediaItem", "value"]
+- !private ["CSo21MPMediaItemCollection", "items"]
+- !private ["CSo21MPMediaItemCollection", "value"]
+- !private ["CSo16MPMediaPredicate", "init"]
+- !private ["CSo24MPMediaPropertyPredicate", "init"]
+- !private ["CSo12MPMediaQuery", "addFilterPredicate"]
+- !private ["CSo12MPMediaQuery", "albums"]
+- !private ["CSo12MPMediaQuery", "artists"]
+- !private ["CSo12MPMediaQuery", "collections"]
+- !private ["CSo12MPMediaQuery", "genres"]
+- !private ["CSo12MPMediaQuery", "init"]
+- !private ["CSo12MPMediaQuery", "items"]
+- !private ["CSo12MPMediaQuery", "playlists"]
+- !private ["CSo12MPMediaQuery", "songs"]
+- !private ["Ps10MirrorPath", "init"]
+- !private ["Ps17MutableCollection", "append"]
+- !private ["Ps17MutableCollection", "count"]
+- !private ["Ps17MutableCollection", "subscript"]
+- !private ["PSo8NSCoding", "addFilterPredicate"]
+- !private ["PSo8NSCoding", "albums"]
+- !private ["PSo8NSCoding", "artists"]
+- !private ["PSo8NSCoding", "collections"]
+- !private ["PSo8NSCoding", "genres"]
+- !private ["PSo8NSCoding", "init"]
+- !private ["PSo8NSCoding", "items"]
+- !private ["PSo8NSCoding", "playlists"]
+- !private ["PSo8NSCoding", "songs"]
+- !private ["PSo8NSCoding", "value"]
+- !private ["PSo9NSCopying", "addFilterPredicate"]
+- !private ["PSo9NSCopying", "albums"]
+- !private ["PSo9NSCopying", "artists"]
+- !private ["PSo9NSCopying", "collections"]
+- !private ["PSo9NSCopying", "genres"]
+- !private ["PSo9NSCopying", "init"]
+- !private ["PSo9NSCopying", "items"]
+- !private ["PSo9NSCopying", "playlists"]
+- !private ["PSo9NSCopying", "songs"]
+- !private ["PSo16NSMutableCopying", "init"]
+- !private ["CSo8NSObject", "addFilterPredicate"]
+- !private ["CSo8NSObject", "albums"]
+- !private ["CSo8NSObject", "artists"]
+- !private ["CSo8NSObject", "collections"]
+- !private ["CSo8NSObject", "genres"]
+- !private ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "items"]
+- !private ["CSo8NSObject", "playlists"]
+- !private ["CSo8NSObject", "songs"]
+- !private ["CSo8NSObject", "value"]
+- !private ["PSo16NSObjectProtocol", "addFilterPredicate"]
+- !private ["PSo16NSObjectProtocol", "albums"]
+- !private ["PSo16NSObjectProtocol", "artists"]
+- !private ["PSo16NSObjectProtocol", "collections"]
+- !private ["PSo16NSObjectProtocol", "genres"]
+- !private ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "items"]
+- !private ["PSo16NSObjectProtocol", "playlists"]
+- !private ["PSo16NSObjectProtocol", "songs"]
+- !private ["PSo16NSObjectProtocol", "value"]
+- !private ["PSo14NSSecureCoding", "addFilterPredicate"]
+- !private ["PSo14NSSecureCoding", "albums"]
+- !private ["PSo14NSSecureCoding", "artists"]
+- !private ["PSo14NSSecureCoding", "collections"]
+- !private ["PSo14NSSecureCoding", "genres"]
+- !private ["PSo14NSSecureCoding", "init"]
+- !private ["PSo14NSSecureCoding", "items"]
+- !private ["PSo14NSSecureCoding", "playlists"]
+- !private ["PSo14NSSecureCoding", "songs"]
+- !private ["PSo14NSSecureCoding", "value"]
+- !private ["CSo8NSString", "init"]
+- !private ["P8AudioKit10Occupiable", "append"]
+- !private ["P8AudioKit10Occupiable", "count"]
+- !private ["P8AudioKit10Occupiable", "init"]
+- !private ["P8AudioKit10Occupiable", "subscript"]
+- !private ["Ps22RandomAccessCollection", "append"]
+- !private ["Ps22RandomAccessCollection", "count"]
+- !private ["Ps22RandomAccessCollection", "subscript"]
+- !private ["Ps26RangeReplaceableCollection", "append"]
+- !private ["Ps26RangeReplaceableCollection", "count"]
+- !private ["Ps26RangeReplaceableCollection", "subscript"]
+- !private ["Ps8Sequence", "append"]
+- !private ["Ps8Sequence", "count"]
+- !private ["Ps8Sequence", "subscript"]
+- ["V16AutoRepeatPlayer8SongInfo", "MPMediaItemArtwork"]
+- ["V16AutoRepeatPlayer8SongInfo", "NSNumber"]
+- ["V16AutoRepeatPlayer8SongInfo", "NSURL"]
+- ["V16AutoRepeatPlayer8SongInfo", "String"]
+- ["V16AutoRepeatPlayer8SongInfo", "albumTitle"]
+- ["V16AutoRepeatPlayer8SongInfo", "artName"]
+- ["V16AutoRepeatPlayer8SongInfo", "artistName"]
+- ["V16AutoRepeatPlayer8SongInfo", "init"]
+- ["V16AutoRepeatPlayer8SongInfo", "songId"]
+- ["V16AutoRepeatPlayer8SongInfo", "songTitle"]
+- ["V16AutoRepeatPlayer8SongInfo", "songURL"]
+- ["C16AutoRepeatPlayer9SongQuery", "AlbumInfo"]
+- !private ["C16AutoRepeatPlayer9SongQuery", "Int"]
+- ["C16AutoRepeatPlayer9SongQuery", "MPMediaItem"]
+- !private ["C16AutoRepeatPlayer9SongQuery", "MPMediaItemArtwork"]
+- ["C16AutoRepeatPlayer9SongQuery", "MPMediaItemCollection"]
+- !private ["C16AutoRepeatPlayer9SongQuery", "MPMediaItemPropertyAlbumArtist"]
+- !private ["C16AutoRepeatPlayer9SongQuery", "MPMediaItemPropertyAlbumTitle"]
+- !private ["C16AutoRepeatPlayer9SongQuery", "MPMediaItemPropertyAlbumTrackCount"]
+- !private ["C16AutoRepeatPlayer9SongQuery", "MPMediaItemPropertyArtist"]
+- !private ["C16AutoRepeatPlayer9SongQuery", "MPMediaItemPropertyArtwork"]
+- !private ["C16AutoRepeatPlayer9SongQuery", "MPMediaItemPropertyAssetURL"]
+- !private ["C16AutoRepeatPlayer9SongQuery", "MPMediaItemPropertyPersistentID"]
+- !private ["C16AutoRepeatPlayer9SongQuery", "MPMediaItemPropertyTitle"]
+- !private ["C16AutoRepeatPlayer9SongQuery", "MPMediaPropertyPredicate"]
+- !private ["C16AutoRepeatPlayer9SongQuery", "MPMediaQuery"]
+- ["C16AutoRepeatPlayer9SongQuery", "NSNumber"]
+- !private ["C16AutoRepeatPlayer9SongQuery", "NSURL"]
+- !private ["C16AutoRepeatPlayer9SongQuery", "SongInfo"]
+- ["C16AutoRepeatPlayer9SongQuery", "String"]
+- !private ["C16AutoRepeatPlayer9SongQuery", "convertAlbum"]
+- !private ["C16AutoRepeatPlayer9SongQuery", "convertArtist"]
+- ["C16AutoRepeatPlayer9SongQuery", "convertPlaylist"]
+- !private ["C16AutoRepeatPlayer9SongQuery", "convertSong"]
+- ["C16AutoRepeatPlayer9SongQuery", "deinit"]
+- ["C16AutoRepeatPlayer9SongQuery", "get"]
+- ["C16AutoRepeatPlayer9SongQuery", "getItem"]
+- ["C16AutoRepeatPlayer9SongQuery", "init"]
+- !private ["SS", "init"]
+- !private ["Ps16TextOutputStream", "init"]
+- !private ["Ps20TextOutputStreamable", "init"]
+- !private ["Ps14_ArrayProtocol", "append"]
+- !private ["Ps14_ArrayProtocol", "count"]
+- !private ["Ps14_ArrayProtocol", "subscript"]
+- !private ["Ps23_BidirectionalIndexable", "append"]
+- !private ["Ps23_BidirectionalIndexable", "count"]
+- !private ["Ps23_BidirectionalIndexable", "subscript"]
+- !private ["Ps24_DestructorSafeContainer", "append"]
+- !private ["Ps24_DestructorSafeContainer", "count"]
+- !private ["Ps24_DestructorSafeContainer", "subscript"]
+- !private ["Ps35_ExpressibleByBuiltinBooleanLiteral", "_getBuiltinLogicValue"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- !private ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "init"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- !private ["Ps33_ExpressibleByStringInterpolation", "init"]
+- !private ["Ps35_HasCustomAnyHashableRepresentation", "init"]
+- !private ["Ps9_Hashable", "_getBuiltinLogicValue"]
+- !private ["Ps9_Hashable", "addFilterPredicate"]
+- !private ["Ps9_Hashable", "albums"]
+- !private ["Ps9_Hashable", "artists"]
+- !private ["Ps9_Hashable", "collections"]
+- !private ["Ps9_Hashable", "genres"]
+- !private ["Ps9_Hashable", "init"]
+- !private ["Ps9_Hashable", "items"]
+- !private ["Ps9_Hashable", "playlists"]
+- !private ["Ps9_Hashable", "songs"]
+- !private ["Ps9_Hashable", "value"]
+- !private ["Ps10_Indexable", "append"]
+- !private ["Ps10_Indexable", "count"]
+- !private ["Ps10_Indexable", "subscript"]
+- !private ["Ps14_IndexableBase", "append"]
+- !private ["Ps14_IndexableBase", "count"]
+- !private ["Ps14_IndexableBase", "subscript"]
+- !private ["Ps17_MutableIndexable", "append"]
+- !private ["Ps17_MutableIndexable", "count"]
+- !private ["Ps17_MutableIndexable", "subscript"]
+- !private ["Ps21_ObjectiveCBridgeable", "_getBuiltinLogicValue"]
+- !private ["Ps21_ObjectiveCBridgeable", "append"]
+- !private ["Ps21_ObjectiveCBridgeable", "count"]
+- !private ["Ps21_ObjectiveCBridgeable", "init"]
+- !private ["Ps21_ObjectiveCBridgeable", "subscript"]
+- !private ["Ps22_RandomAccessIndexable", "append"]
+- !private ["Ps22_RandomAccessIndexable", "count"]
+- !private ["Ps22_RandomAccessIndexable", "subscript"]
+- !private ["Ps26_RangeReplaceableIndexable", "append"]
+- !private ["Ps26_RangeReplaceableIndexable", "count"]
+- !private ["Ps26_RangeReplaceableIndexable", "subscript"]
+depends-nominal:
+- "V16AutoRepeatPlayer9AlbumInfo"
+- "Ps9AnyObject"
+- !private "Sa"
+- !private "Ps23BidirectionalCollection"
+- !private "Sb"
+- !private "Ps7CVarArg"
+- !private "Ps10Collection"
+- !private "Ps10Comparable"
+- !private "Ps28CustomDebugStringConvertible"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- !private "Ps23CustomStringConvertible"
+- !private "Ps9Equatable"
+- !private "Ps25ExpressibleByArrayLiteral"
+- !private "Ps27ExpressibleByBooleanLiteral"
+- !private "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- !private "Ps26ExpressibleByStringLiteral"
+- !private "Ps33ExpressibleByUnicodeScalarLiteral"
+- !private "Ps8Hashable"
+- !private "Ps25LosslessStringConvertible"
+- !private "CSo13MPMediaEntity"
+- !private "CSo11MPMediaItem"
+- !private "CSo21MPMediaItemCollection"
+- !private "CSo16MPMediaPredicate"
+- !private "CSo24MPMediaPropertyPredicate"
+- !private "CSo12MPMediaQuery"
+- !private "Ps10MirrorPath"
+- !private "Ps17MutableCollection"
+- !private "PSo8NSCoding"
+- !private "PSo9NSCopying"
+- !private "PSo16NSMutableCopying"
+- !private "CSo8NSObject"
+- !private "PSo16NSObjectProtocol"
+- !private "PSo14NSSecureCoding"
+- !private "CSo8NSString"
+- !private "P8AudioKit10Occupiable"
+- !private "Ps22RandomAccessCollection"
+- !private "Ps26RangeReplaceableCollection"
+- !private "Ps8Sequence"
+- "V16AutoRepeatPlayer8SongInfo"
+- "C16AutoRepeatPlayer9SongQuery"
+- !private "SS"
+- !private "Ps16TextOutputStream"
+- !private "Ps20TextOutputStreamable"
+- !private "Ps14_ArrayProtocol"
+- !private "Ps23_BidirectionalIndexable"
+- !private "Ps24_DestructorSafeContainer"
+- !private "Ps35_ExpressibleByBuiltinBooleanLiteral"
+- !private "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- !private "Ps34_ExpressibleByBuiltinStringLiteral"
+- !private "Ps39_ExpressibleByBuiltinUTF16StringLiteral"
+- !private "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- !private "Ps33_ExpressibleByStringInterpolation"
+- !private "Ps35_HasCustomAnyHashableRepresentation"
+- !private "Ps9_Hashable"
+- !private "Ps10_Indexable"
+- !private "Ps14_IndexableBase"
+- !private "Ps17_MutableIndexable"
+- !private "Ps21_ObjectiveCBridgeable"
+- !private "Ps22_RandomAccessIndexable"
+- !private "Ps26_RangeReplaceableIndexable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/ObjectiveC.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Metal.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Foundation.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/AVFoundation.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/MediaPlayer.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreGraphics.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/UIKit.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/GLKit.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreText.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/AudioToolbox.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreMedia.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/simd.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Dispatch.swiftmodule"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Modules/AudioKit.swiftmodule/arm.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/AVFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreAudio.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/GLKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/SwiftOnoneSupport.swiftmodule"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/EZAudioPlotGL.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/EZAudioFFT.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/EZAudioFloatData.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/EZAudioDevice.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/EZAudioFile.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKMicrophoneTrackerEngine.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/EZMicrophone.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKSporthStack.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/EZAudioDisplayLink.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/EZAudio.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/AutoRepeatPlayer/AutoRepeatPlayer-Bridging-Header.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/EZRecorder.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/TPCircularBuffer.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/EZAudioFileMarker.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKOfflineRenderer.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/EZAudioFloatConverter.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/EZAudioPlayer.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/EZAudioUtilities.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AudioKit-Swift.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AudioKit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKZitaReverbAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKFlatFrequencyResponseReverbAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKChowningReverbAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKCostelloReverbAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKCombFilterReverbAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKAmplitudeEnvelopeAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKWhiteNoiseAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKPinkNoiseAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKBrownianNoiseAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKFluteAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKPluckedStringAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKAutoWahAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKDCBlockAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKOscillatorBankAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKFMOscillatorBankAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKPWMOscillatorBankAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKMorphingOscillatorBankAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKPhaseDistortionOscillatorBankAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKMandolinAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKTanhDistortionAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKConvolutionAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKTremoloAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKRhodesPianoAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKDripAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKMetalBarAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKBalancerAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKMoogLadderAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKPhaseLockedVocoderAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKBitCrusherAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKShakerAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKAmplitudeTrackerAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKFrequencyTrackerAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKPannerAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKClipperAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKPhaserAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKPitchShifterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKStereoFieldLimiterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKRolandTB303FilterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKModalResonanceFilterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKToneFilterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKBandPassButterworthFilterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKHighPassButterworthFilterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKLowPassButterworthFilterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKBandRejectButterworthFilterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKEqualizerFilterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKHighShelfParametricEqualizerFilterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKLowShelfParametricEqualizerFilterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKPeakingParametricEqualizerFilterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKKorgLowPassFilterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKThreePoleLowpassFilterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKFormantFilterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKResonantFilterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKToneComplementFilterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKTesterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKBoosterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKSamplePlayerAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKDynamicRangeCompressorAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKOscillatorAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKFMOscillatorAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKPWMOscillatorAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKMorphingOscillatorAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKPhaseDistortionOscillatorAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKStringResonatorAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKOperationGeneratorAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKTubularBellsAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKVocalTractAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKOperationEffectAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKClarinetAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKVariableDelayAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/EZPlot.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/EZAudioPlot.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/EZOutput.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Modules/module.modulemap"
+interface-hash: "934e852b7cc2e5a6c61954169ab71f81"

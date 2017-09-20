@@ -1,0 +1,10 @@
+framework module MyDrawKit {
+  umbrella header "MyDrawKit.h"
+
+  export *
+  module * { export * }
+}
+
+module MyDrawKit.__Swift {
+    exclude header "MyDrawKit-Swift.h"
+}

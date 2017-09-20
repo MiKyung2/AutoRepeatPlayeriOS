@@ -1,0 +1,1185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3bd1eb5b-8c95-45b4-877a-aab26c687ea7" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/AppDelegate.dia" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/CurrentPlaylistCell.dia" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/test.dia" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Logs/Build/E01E92C5-9C39-4149-AEB8-04C0D9C72F3D.xcactivitylog" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ModuleCache/11M71X6U6FT0F/AVFoundation-7O317LEIB4Z2.pcm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ModuleCache/11M71X6U6FT0F/AudioToolbox-IDGAMJDSP9Z1.pcm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ModuleCache/11M71X6U6FT0F/AudioUnit-2SNSBNBLJEOKG.pcm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ModuleCache/11M71X6U6FT0F/CFNetwork-929P33Y1WR7E.pcm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ModuleCache/11M71X6U6FT0F/CoreAudio-X7XIL788GQ9E.pcm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ModuleCache/11M71X6U6FT0F/CoreFoundation-10I2D2XL7L7X9.pcm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ModuleCache/11M71X6U6FT0F/CoreGraphics-1TH4RJJRQVFOC.pcm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ModuleCache/11M71X6U6FT0F/CoreImage-1YQ59ILDR3NYI.pcm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ModuleCache/11M71X6U6FT0F/CoreMIDI-2EI6TA9W8P2TQ.pcm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ModuleCache/11M71X6U6FT0F/CoreMedia-GG7O0RHFFJKF.pcm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ModuleCache/11M71X6U6FT0F/CoreText-33OP6U69KUCI9.pcm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ModuleCache/11M71X6U6FT0F/CoreVideo-3FAWVAJBVREGF.pcm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ModuleCache/11M71X6U6FT0F/Darwin-MI6WZSG1PNOM.pcm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ModuleCache/11M71X6U6FT0F/Dispatch-12O7S7HHQXK9N.pcm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ModuleCache/11M71X6U6FT0F/Foundation-A3SOD99KJ0S9.pcm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ModuleCache/11M71X6U6FT0F/MediaPlayer-31F1DLFTAMU4B.pcm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ModuleCache/11M71X6U6FT0F/MediaToolbox-2PQ3KB1MW6AK4.pcm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ModuleCache/11M71X6U6FT0F/Metal-145CFU14FVBOZ.pcm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ModuleCache/11M71X6U6FT0F/MyDrawKit-A4XWDC4AVX1R.pcm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ModuleCache/11M71X6U6FT0F/ObjectiveC-2CD0WTQVXITO7.pcm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ModuleCache/11M71X6U6FT0F/OpenGLES-1739WO7XX8M93.pcm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ModuleCache/11M71X6U6FT0F/QuartzCore-3I7S0M4UEAD0U.pcm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ModuleCache/11M71X6U6FT0F/Security-1FYAMFTYLRNUK.pcm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ModuleCache/11M71X6U6FT0F/SwiftShims-1HJGLIW7H35BO.pcm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ModuleCache/11M71X6U6FT0F/UIKit-2LM3EQU7VVY4O.pcm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ModuleCache/11M71X6U6FT0F/_Builtin_stddef_max_align_t-1NKGPDERPGHAD.pcm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ModuleCache/11M71X6U6FT0F/_SwiftDispatchOverlayShims-1HJGLIW7H35BO.pcm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ModuleCache/11M71X6U6FT0F/_SwiftObjectiveCOverlayShims-1HJGLIW7H35BO.pcm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ModuleCache/11M71X6U6FT0F/os_object-MI6WZSG1PNOM.pcm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ModuleCache/4WD48NIMB1VK/AVFoundation-7O317LEIB4Z2.pcm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ModuleCache/4WD48NIMB1VK/AudioToolbox-IDGAMJDSP9Z1.pcm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ModuleCache/4WD48NIMB1VK/AudioUnit-2SNSBNBLJEOKG.pcm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ModuleCache/4WD48NIMB1VK/CFNetwork-929P33Y1WR7E.pcm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ModuleCache/4WD48NIMB1VK/CoreAudio-X7XIL788GQ9E.pcm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ModuleCache/4WD48NIMB1VK/CoreFoundation-10I2D2XL7L7X9.pcm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ModuleCache/4WD48NIMB1VK/CoreGraphics-1TH4RJJRQVFOC.pcm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ModuleCache/4WD48NIMB1VK/CoreImage-1YQ59ILDR3NYI.pcm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ModuleCache/4WD48NIMB1VK/CoreMIDI-2EI6TA9W8P2TQ.pcm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ModuleCache/4WD48NIMB1VK/CoreMedia-GG7O0RHFFJKF.pcm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ModuleCache/4WD48NIMB1VK/CoreText-33OP6U69KUCI9.pcm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ModuleCache/4WD48NIMB1VK/CoreVideo-3FAWVAJBVREGF.pcm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ModuleCache/4WD48NIMB1VK/Darwin-MI6WZSG1PNOM.pcm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ModuleCache/4WD48NIMB1VK/Dispatch-12O7S7HHQXK9N.pcm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ModuleCache/4WD48NIMB1VK/Foundation-A3SOD99KJ0S9.pcm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ModuleCache/4WD48NIMB1VK/MediaPlayer-31F1DLFTAMU4B.pcm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ModuleCache/4WD48NIMB1VK/MediaToolbox-2PQ3KB1MW6AK4.pcm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ModuleCache/4WD48NIMB1VK/Metal-145CFU14FVBOZ.pcm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ModuleCache/4WD48NIMB1VK/MyDrawKit-A4XWDC4AVX1R.pcm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ModuleCache/4WD48NIMB1VK/ObjectiveC-2CD0WTQVXITO7.pcm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ModuleCache/4WD48NIMB1VK/OpenGLES-1739WO7XX8M93.pcm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ModuleCache/4WD48NIMB1VK/QuartzCore-3I7S0M4UEAD0U.pcm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ModuleCache/4WD48NIMB1VK/Security-1FYAMFTYLRNUK.pcm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ModuleCache/4WD48NIMB1VK/SwiftShims-1HJGLIW7H35BO.pcm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ModuleCache/4WD48NIMB1VK/UIKit-2LM3EQU7VVY4O.pcm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ModuleCache/4WD48NIMB1VK/_Builtin_stddef_max_align_t-1NKGPDERPGHAD.pcm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ModuleCache/4WD48NIMB1VK/_SwiftDispatchOverlayShims-1HJGLIW7H35BO.pcm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ModuleCache/4WD48NIMB1VK/_SwiftObjectiveCOverlayShims-1HJGLIW7H35BO.pcm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ModuleCache/4WD48NIMB1VK/os_object-MI6WZSG1PNOM.pcm" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/AlbumCollectionViewCell.o" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/AlbumCollectionViewCell.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/AlbumCollectionViewCell~partial.swiftmodule" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/AlbumCollectionViewCell~partial.swiftmodule" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/AlbumCollectionViewController.o" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/AlbumCollectionViewController.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/AlbumCollectionViewController~partial.swiftmodule" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/AlbumCollectionViewController~partial.swiftmodule" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/AppDelegate.o" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/AppDelegate.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/AppDelegate~partial.swiftmodule" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/AppDelegate~partial.swiftmodule" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/ArtistTableViewCell.o" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/ArtistTableViewCell.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/ArtistTableViewCell~partial.swiftmodule" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/ArtistTableViewCell~partial.swiftmodule" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/ArtistViewController.o" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/ArtistViewController.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/ArtistViewController~partial.swiftmodule" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/ArtistViewController~partial.swiftmodule" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/AutoRepeatPlayer.swiftmodule" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/AutoRepeatPlayer.swiftmodule" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/CategoryCell.o" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/CategoryCell.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/CategoryCell~partial.swiftmodule" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/CategoryCell~partial.swiftmodule" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/CategoryTableViewController.o" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/CategoryTableViewController.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/CategoryTableViewController~partial.swiftmodule" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/CategoryTableViewController~partial.swiftmodule" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/CurrentPlayStateBarView.o" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/CurrentPlayStateBarView.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/CurrentPlayStateBarView~partial.swiftmodule" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/CurrentPlayStateBarView~partial.swiftmodule" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/CurrentPlaylistCell.o" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/CurrentPlaylistCell.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/CurrentPlaylistCell~partial.swiftmodule" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/CurrentPlaylistCell~partial.swiftmodule" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/CurrentPlaylistTableViewController.o" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/CurrentPlaylistTableViewController.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/CurrentPlaylistTableViewController~partial.swiftmodule" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/CurrentPlaylistTableViewController~partial.swiftmodule" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/CustomCell.o" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/CustomCell.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/CustomCell~partial.swiftmodule" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/CustomCell~partial.swiftmodule" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/GenreTableViewCell.o" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/GenreTableViewCell.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/GenreTableViewCell~partial.swiftmodule" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/GenreTableViewCell~partial.swiftmodule" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/GenreViewController.o" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/GenreViewController.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/GenreViewController~partial.swiftmodule" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/GenreViewController~partial.swiftmodule" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/MP3Player.o" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/MP3Player.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/MP3Player~partial.swiftmodule" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/MP3Player~partial.swiftmodule" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/PlayerViewController.o" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/PlayerViewController.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/PlayerViewController~partial.swiftmodule" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/PlayerViewController~partial.swiftmodule" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/PlaylistHeaderViewCell.o" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/PlaylistHeaderViewCell.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/PlaylistHeaderViewCell~partial.swiftmodule" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/PlaylistHeaderViewCell~partial.swiftmodule" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/PlaylistTableViewCell.o" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/PlaylistTableViewCell.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/PlaylistTableViewCell~partial.swiftmodule" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/PlaylistTableViewCell~partial.swiftmodule" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/PlaylistViewController.o" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/PlaylistViewController.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/PlaylistViewController~partial.swiftmodule" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/PlaylistViewController~partial.swiftmodule" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/SlideInPresentationAnimator.o" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/SlideInPresentationAnimator.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/SlideInPresentationAnimator~partial.swiftmodule" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/SlideInPresentationAnimator~partial.swiftmodule" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/SlideInPresentationController.o" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/SlideInPresentationController.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/SlideInPresentationController~partial.swiftmodule" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/SlideInPresentationController~partial.swiftmodule" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/SlideInPresentationManager.o" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/SlideInPresentationManager.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/SlideInPresentationManager~partial.swiftmodule" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/SlideInPresentationManager~partial.swiftmodule" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/SongQuery.o" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/SongQuery.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/SongQuery~partial.swiftmodule" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/SongQuery~partial.swiftmodule" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/TableViewController.o" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/TableViewController.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/TableViewController~partial.swiftmodule" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/TableViewController~partial.swiftmodule" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/dgph" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/dgph" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/MyDrawKit.build/Objects-normal/arm64/MyDrawKit.swiftmodule" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/MyDrawKit.build/Objects-normal/arm64/MyDrawKit.swiftmodule" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/MyDrawKit.build/Objects-normal/arm64/MyDrawView.o" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/MyDrawKit.build/Objects-normal/arm64/MyDrawView.o" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/MyDrawKit.build/Objects-normal/arm64/MyDrawView~partial.swiftmodule" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/MyDrawKit.build/Objects-normal/arm64/MyDrawView~partial.swiftmodule" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/MyDrawKit.build/dgph" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/MyDrawKit.build/dgph" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Products/Debug-iphoneos/AutoRepeatPlayer.swiftmodule/arm64.swiftmodule" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Products/Debug-iphoneos/AutoRepeatPlayer.swiftmodule/arm64.swiftmodule" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Products/Debug-iphoneos/MyDrawKit.framework/Modules/MyDrawKit.swiftmodule/arm64.swiftmodule" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Products/Debug-iphoneos/MyDrawKit.framework/Modules/MyDrawKit.swiftmodule/arm64.swiftmodule" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Index/Debug/iphoneos10.3-arm64/AutoRepeatPlayer.xcindex/db.xcindexdb" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Index/Debug/iphoneos10.3-arm64/AutoRepeatPlayer.xcindex/db.xcindexdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Index/Debug/iphoneos10.3-arm64/AutoRepeatPlayer.xcindex/db.xcindexdb-shm" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Index/Debug/iphoneos10.3-arm64/AutoRepeatPlayer.xcindex/db.xcindexdb-shm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Index/Debug/iphoneos10.3-arm64/AutoRepeatPlayer.xcindex/db.xcindexdb-wal" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Index/Debug/iphoneos10.3-arm64/AutoRepeatPlayer.xcindex/db.xcindexdb-wal" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Index/Debug/iphoneos10.3-arm64/AutoRepeatPlayer.xcindex/db.xcindexdb.strings-dir" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Index/Debug/iphoneos10.3-arm64/AutoRepeatPlayer.xcindex/db.xcindexdb.strings-dir" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Index/Debug/iphoneos10.3-arm64/AutoRepeatPlayer.xcindex/db.xcindexdb.strings-file" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Index/Debug/iphoneos10.3-arm64/AutoRepeatPlayer.xcindex/db.xcindexdb.strings-file" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Index/Debug/iphoneos10.3-arm64/AutoRepeatPlayer.xcindex/db.xcindexdb.strings-moduleurl" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Index/Debug/iphoneos10.3-arm64/AutoRepeatPlayer.xcindex/db.xcindexdb.strings-moduleurl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Index/Debug/iphoneos10.3-arm64/AutoRepeatPlayer.xcindex/db.xcindexdb.strings-res" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Index/Debug/iphoneos10.3-arm64/AutoRepeatPlayer.xcindex/db.xcindexdb.strings-res" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Index/Debug/iphoneos10.3-arm64/AutoRepeatPlayer.xcindex/db.xcindexdb.strings-sym" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Index/Debug/iphoneos10.3-arm64/AutoRepeatPlayer.xcindex/db.xcindexdb.strings-sym" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Logs/Build/Cache.db" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Logs/Build/Cache.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer.xcworkspace/xcuserdata/jmk.xcuserdatad/UserInterfaceState.xcuserstate" afterPath="$PROJECT_DIR$/AutoRepeatPlayer.xcworkspace/xcuserdata/jmk.xcuserdatad/UserInterfaceState.xcuserstate" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ModuleCache/11W8L8BKZZ81H/AVFoundation-7O317LEIB4Z2.pcm" afterPath="$PROJECT_DIR$/ModuleCache/11W8L8BKZZ81H/AVFoundation-7O317LEIB4Z2.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ModuleCache/11W8L8BKZZ81H/AudioToolbox-IDGAMJDSP9Z1.pcm" afterPath="$PROJECT_DIR$/ModuleCache/11W8L8BKZZ81H/AudioToolbox-IDGAMJDSP9Z1.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ModuleCache/11W8L8BKZZ81H/AudioUnit-2SNSBNBLJEOKG.pcm" afterPath="$PROJECT_DIR$/ModuleCache/11W8L8BKZZ81H/AudioUnit-2SNSBNBLJEOKG.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ModuleCache/11W8L8BKZZ81H/CFNetwork-929P33Y1WR7E.pcm" afterPath="$PROJECT_DIR$/ModuleCache/11W8L8BKZZ81H/CFNetwork-929P33Y1WR7E.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ModuleCache/11W8L8BKZZ81H/CoreAudio-X7XIL788GQ9E.pcm" afterPath="$PROJECT_DIR$/ModuleCache/11W8L8BKZZ81H/CoreAudio-X7XIL788GQ9E.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ModuleCache/11W8L8BKZZ81H/CoreFoundation-10I2D2XL7L7X9.pcm" afterPath="$PROJECT_DIR$/ModuleCache/11W8L8BKZZ81H/CoreFoundation-10I2D2XL7L7X9.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ModuleCache/11W8L8BKZZ81H/CoreGraphics-1TH4RJJRQVFOC.pcm" afterPath="$PROJECT_DIR$/ModuleCache/11W8L8BKZZ81H/CoreGraphics-1TH4RJJRQVFOC.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ModuleCache/11W8L8BKZZ81H/CoreImage-1YQ59ILDR3NYI.pcm" afterPath="$PROJECT_DIR$/ModuleCache/11W8L8BKZZ81H/CoreImage-1YQ59ILDR3NYI.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ModuleCache/11W8L8BKZZ81H/CoreMIDI-2EI6TA9W8P2TQ.pcm" afterPath="$PROJECT_DIR$/ModuleCache/11W8L8BKZZ81H/CoreMIDI-2EI6TA9W8P2TQ.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ModuleCache/11W8L8BKZZ81H/CoreMedia-GG7O0RHFFJKF.pcm" afterPath="$PROJECT_DIR$/ModuleCache/11W8L8BKZZ81H/CoreMedia-GG7O0RHFFJKF.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ModuleCache/11W8L8BKZZ81H/CoreText-33OP6U69KUCI9.pcm" afterPath="$PROJECT_DIR$/ModuleCache/11W8L8BKZZ81H/CoreText-33OP6U69KUCI9.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ModuleCache/11W8L8BKZZ81H/CoreVideo-3FAWVAJBVREGF.pcm" afterPath="$PROJECT_DIR$/ModuleCache/11W8L8BKZZ81H/CoreVideo-3FAWVAJBVREGF.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ModuleCache/11W8L8BKZZ81H/Darwin-MI6WZSG1PNOM.pcm" afterPath="$PROJECT_DIR$/ModuleCache/11W8L8BKZZ81H/Darwin-MI6WZSG1PNOM.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ModuleCache/11W8L8BKZZ81H/Dispatch-12O7S7HHQXK9N.pcm" afterPath="$PROJECT_DIR$/ModuleCache/11W8L8BKZZ81H/Dispatch-12O7S7HHQXK9N.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ModuleCache/11W8L8BKZZ81H/Foundation-A3SOD99KJ0S9.pcm" afterPath="$PROJECT_DIR$/ModuleCache/11W8L8BKZZ81H/Foundation-A3SOD99KJ0S9.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ModuleCache/11W8L8BKZZ81H/MediaPlayer-31F1DLFTAMU4B.pcm" afterPath="$PROJECT_DIR$/ModuleCache/11W8L8BKZZ81H/MediaPlayer-31F1DLFTAMU4B.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ModuleCache/11W8L8BKZZ81H/MediaToolbox-2PQ3KB1MW6AK4.pcm" afterPath="$PROJECT_DIR$/ModuleCache/11W8L8BKZZ81H/MediaToolbox-2PQ3KB1MW6AK4.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ModuleCache/11W8L8BKZZ81H/Metal-145CFU14FVBOZ.pcm" afterPath="$PROJECT_DIR$/ModuleCache/11W8L8BKZZ81H/Metal-145CFU14FVBOZ.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ModuleCache/11W8L8BKZZ81H/MyDrawKit-A4XWDC4AVX1R.pcm" afterPath="$PROJECT_DIR$/ModuleCache/11W8L8BKZZ81H/MyDrawKit-A4XWDC4AVX1R.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ModuleCache/11W8L8BKZZ81H/ObjectiveC-2CD0WTQVXITO7.pcm" afterPath="$PROJECT_DIR$/ModuleCache/11W8L8BKZZ81H/ObjectiveC-2CD0WTQVXITO7.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ModuleCache/11W8L8BKZZ81H/OpenGLES-1739WO7XX8M93.pcm" afterPath="$PROJECT_DIR$/ModuleCache/11W8L8BKZZ81H/OpenGLES-1739WO7XX8M93.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ModuleCache/11W8L8BKZZ81H/QuartzCore-3I7S0M4UEAD0U.pcm" afterPath="$PROJECT_DIR$/ModuleCache/11W8L8BKZZ81H/QuartzCore-3I7S0M4UEAD0U.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ModuleCache/11W8L8BKZZ81H/Security-1FYAMFTYLRNUK.pcm" afterPath="$PROJECT_DIR$/ModuleCache/11W8L8BKZZ81H/Security-1FYAMFTYLRNUK.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ModuleCache/11W8L8BKZZ81H/SwiftShims-1HJGLIW7H35BO.pcm" afterPath="$PROJECT_DIR$/ModuleCache/11W8L8BKZZ81H/SwiftShims-1HJGLIW7H35BO.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ModuleCache/11W8L8BKZZ81H/UIKit-2LM3EQU7VVY4O.pcm" afterPath="$PROJECT_DIR$/ModuleCache/11W8L8BKZZ81H/UIKit-2LM3EQU7VVY4O.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ModuleCache/11W8L8BKZZ81H/_Builtin_stddef_max_align_t-1NKGPDERPGHAD.pcm" afterPath="$PROJECT_DIR$/ModuleCache/11W8L8BKZZ81H/_Builtin_stddef_max_align_t-1NKGPDERPGHAD.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ModuleCache/11W8L8BKZZ81H/_SwiftDispatchOverlayShims-1HJGLIW7H35BO.pcm" afterPath="$PROJECT_DIR$/ModuleCache/11W8L8BKZZ81H/_SwiftDispatchOverlayShims-1HJGLIW7H35BO.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ModuleCache/11W8L8BKZZ81H/_SwiftObjectiveCOverlayShims-1HJGLIW7H35BO.pcm" afterPath="$PROJECT_DIR$/ModuleCache/11W8L8BKZZ81H/_SwiftObjectiveCOverlayShims-1HJGLIW7H35BO.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ModuleCache/11W8L8BKZZ81H/os_object-MI6WZSG1PNOM.pcm" afterPath="$PROJECT_DIR$/ModuleCache/11W8L8BKZZ81H/os_object-MI6WZSG1PNOM.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ModuleCache/1JBST6ANBNIJE/AVFoundation-7O317LEIB4Z2.pcm" afterPath="$PROJECT_DIR$/ModuleCache/1JBST6ANBNIJE/AVFoundation-7O317LEIB4Z2.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ModuleCache/1JBST6ANBNIJE/AudioToolbox-IDGAMJDSP9Z1.pcm" afterPath="$PROJECT_DIR$/ModuleCache/1JBST6ANBNIJE/AudioToolbox-IDGAMJDSP9Z1.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ModuleCache/1JBST6ANBNIJE/AudioUnit-2SNSBNBLJEOKG.pcm" afterPath="$PROJECT_DIR$/ModuleCache/1JBST6ANBNIJE/AudioUnit-2SNSBNBLJEOKG.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ModuleCache/1JBST6ANBNIJE/CoreAudio-X7XIL788GQ9E.pcm" afterPath="$PROJECT_DIR$/ModuleCache/1JBST6ANBNIJE/CoreAudio-X7XIL788GQ9E.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ModuleCache/1JBST6ANBNIJE/CoreMIDI-2EI6TA9W8P2TQ.pcm" afterPath="$PROJECT_DIR$/ModuleCache/1JBST6ANBNIJE/CoreMIDI-2EI6TA9W8P2TQ.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ModuleCache/1JBST6ANBNIJE/CoreMedia-GG7O0RHFFJKF.pcm" afterPath="$PROJECT_DIR$/ModuleCache/1JBST6ANBNIJE/CoreMedia-GG7O0RHFFJKF.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ModuleCache/1JBST6ANBNIJE/MediaPlayer-31F1DLFTAMU4B.pcm" afterPath="$PROJECT_DIR$/ModuleCache/1JBST6ANBNIJE/MediaPlayer-31F1DLFTAMU4B.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ModuleCache/1JBST6ANBNIJE/MediaToolbox-2PQ3KB1MW6AK4.pcm" afterPath="$PROJECT_DIR$/ModuleCache/1JBST6ANBNIJE/MediaToolbox-2PQ3KB1MW6AK4.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ModuleCache/1JBST6ANBNIJE/MyDrawKit-A4XWDC4AVX1R.pcm" afterPath="$PROJECT_DIR$/ModuleCache/1JBST6ANBNIJE/MyDrawKit-A4XWDC4AVX1R.pcm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/DerivedSources/AutoRepeatPlayer-Swift.h" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/DerivedSources/AutoRepeatPlayer-Swift.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/AlbumCollectionViewCell.d" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/AlbumCollectionViewCell.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/AlbumCollectionViewCell.swiftdeps" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/AlbumCollectionViewCell.swiftdeps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/AlbumCollectionViewController.d" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/AlbumCollectionViewController.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/AlbumCollectionViewController.swiftdeps" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/AlbumCollectionViewController.swiftdeps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/AppDelegate.d" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/AppDelegate.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/AppDelegate.swiftdeps" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/AppDelegate.swiftdeps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/ArtistTableViewCell.d" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/ArtistTableViewCell.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/ArtistTableViewCell.swiftdeps" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/ArtistTableViewCell.swiftdeps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/ArtistViewController.d" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/ArtistViewController.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/ArtistViewController.swiftdeps" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/ArtistViewController.swiftdeps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/AutoRepeatPlayer-OutputFileMap.json" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/AutoRepeatPlayer-OutputFileMap.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/AutoRepeatPlayer-Swift.h" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/AutoRepeatPlayer-Swift.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/AutoRepeatPlayer-master.swiftdeps" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/AutoRepeatPlayer-master.swiftdeps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/AutoRepeatPlayer.LinkFileList" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/AutoRepeatPlayer.LinkFileList" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/CategoryCell.d" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/CategoryCell.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/CategoryCell.swiftdeps" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/CategoryCell.swiftdeps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/CategoryTableViewController.d" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/CategoryTableViewController.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/CategoryTableViewController.swiftdeps" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/CategoryTableViewController.swiftdeps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/CurrentPlayStateBarView.d" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/CurrentPlayStateBarView.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/CurrentPlayStateBarView.swiftdeps" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/CurrentPlayStateBarView.swiftdeps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/CurrentPlaylistCell.d" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/CurrentPlaylistCell.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/CurrentPlaylistCell.swiftdeps" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/CurrentPlaylistCell.swiftdeps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/CurrentPlaylistTableViewController.d" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/CurrentPlaylistTableViewController.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/CurrentPlaylistTableViewController.swiftdeps" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/CurrentPlaylistTableViewController.swiftdeps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/CustomCell.d" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/CustomCell.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/CustomCell.swiftdeps" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/CustomCell.swiftdeps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/GenreTableViewCell.d" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/GenreTableViewCell.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/GenreTableViewCell.swiftdeps" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/GenreTableViewCell.swiftdeps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/GenreViewController.d" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/GenreViewController.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/GenreViewController.swiftdeps" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/GenreViewController.swiftdeps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/MP3Player.d" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/MP3Player.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/MP3Player.swiftdeps" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/MP3Player.swiftdeps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/PlayerViewController.d" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/PlayerViewController.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/PlayerViewController.swiftdeps" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/PlayerViewController.swiftdeps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/PlaylistHeaderViewCell.d" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/PlaylistHeaderViewCell.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/PlaylistHeaderViewCell.swiftdeps" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/PlaylistHeaderViewCell.swiftdeps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/PlaylistTableViewCell.d" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/PlaylistTableViewCell.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/PlaylistTableViewCell.swiftdeps" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/PlaylistTableViewCell.swiftdeps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/PlaylistViewController.d" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/PlaylistViewController.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/PlaylistViewController.swiftdeps" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/PlaylistViewController.swiftdeps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/SlideInPresentationAnimator.d" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/SlideInPresentationAnimator.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/SlideInPresentationAnimator.swiftdeps" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/SlideInPresentationAnimator.swiftdeps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/SlideInPresentationController.d" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/SlideInPresentationController.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/SlideInPresentationController.swiftdeps" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/SlideInPresentationController.swiftdeps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/SlideInPresentationManager.d" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/SlideInPresentationManager.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/SlideInPresentationManager.swiftdeps" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/SlideInPresentationManager.swiftdeps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/SongQuery.d" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/SongQuery.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/SongQuery.swiftdeps" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/SongQuery.swiftdeps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/TableViewController.d" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/TableViewController.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/TableViewController.swiftdeps" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/TableViewController.swiftdeps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/test.d" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/test.d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/test.swiftdeps" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/AutoRepeatPlayer.build/Objects-normal/arm64/test.swiftdeps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/MyDrawKit.build/Objects-normal/arm64/MyDrawKit-master.swiftdeps" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/MyDrawKit.build/Objects-normal/arm64/MyDrawKit-master.swiftdeps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/MyDrawKit.build/Objects-normal/arm64/MyDrawView.swiftdeps" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/Build/Intermediates/AutoRepeatPlayer.build/Debug-iphoneos/MyDrawKit.build/Objects-normal/arm64/MyDrawView.swiftdeps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/info.plist" afterPath="$PROJECT_DIR$/AutoRepeatPlayer-hbrmkkbdgzeblgdyypmbcbuwbpab/info.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer.xcodeproj/xcuserdata/jmk.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" afterPath="$PROJECT_DIR$/AutoRepeatPlayer.xcodeproj/xcuserdata/jmk.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer.xcworkspace/xcuserdata/jmk.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" afterPath="$PROJECT_DIR$/AutoRepeatPlayer.xcworkspace/xcuserdata/jmk.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AutoRepeatPlayer/PlayerViewController.swift" afterPath="$PROJECT_DIR$/AutoRepeatPlayer/PlayerViewController.swift" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="iphoneos_420468c81740f86486f3ed9d6d3f14cc66f00303" />
+  <component name="FavoritesManager">
+    <favorites_list name="AutoRepeatPlayer" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="MP3Player.swift" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AutoRepeatPlayer/model/MP3Player.swift">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8536">
+              <caret line="390" column="19" lean-forward="false" selection-start-line="390" selection-start-column="19" selection-end-line="390" selection-end-column="19" />
+              <folding>
+                <marker date="1502628244000" expanded="true" signature="2676:2804" ph="{...}" />
+                <marker date="1502628244000" expanded="true" signature="14465:14471" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AlbumCollectionViewController.swift" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AutoRepeatPlayer/AlbumCollectionViewController.swift">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TableViewController.swift" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AutoRepeatPlayer/TableViewController.swift">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1430">
+              <caret line="67" column="5" lean-forward="false" selection-start-line="67" selection-start-column="5" selection-end-line="67" selection-end-column="5" />
+              <folding>
+                <marker date="1502438719000" expanded="true" signature="306:312" ph="{...}" />
+                <marker date="1502438719000" expanded="true" signature="5244:5355" ph="{...}" />
+                <marker date="1502438719000" expanded="true" signature="5279:5355" ph="{...}" />
+                <marker date="1502438719000" expanded="true" signature="5395:5825" ph="{...}" />
+                <marker date="1502438719000" expanded="true" signature="5872:5999" ph="{...}" />
+                <marker date="1502438719000" expanded="true" signature="6106:6677" ph="{...}" />
+                <marker date="1502438719000" expanded="true" signature="6720:6747" ph="{...}" />
+                <marker date="1502438719000" expanded="true" signature="6785:7767" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PlaylistViewController.swift" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AutoRepeatPlayer/PlaylistViewController.swift">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PlayerViewController.swift" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AutoRepeatPlayer/PlayerViewController.swift">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="423">
+              <caret line="469" column="26" lean-forward="true" selection-start-line="469" selection-start-column="12" selection-end-line="469" selection-end-column="26" />
+              <folding>
+                <marker date="1503660332000" expanded="true" signature="32154:32156" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CurrentPlayStateBarView.swift" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AutoRepeatPlayer/CurrentPlayStateBarView.swift">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+              <folding>
+                <marker date="1498720805000" expanded="true" signature="4380:4580" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CurrentPlaylistTableViewController.swift" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AutoRepeatPlayer/CurrentPlaylistTableViewController.swift">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="20" column="8" lean-forward="false" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AppDelegate.swift" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AutoRepeatPlayer/AppDelegate.swift">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="16" column="26" lean-forward="false" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+              <folding>
+                <element signature="e#137#149#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>title</find>
+      <find>labelText</find>
+      <find>audioPlayerDidFinishPlaying</find>
+      <find>TODO</find>
+      <find>currentplaylisttableview</find>
+      <find>CurrentPlayListDelegate</find>
+      <find>CurrentPlayStateBarView</find>
+      <find>currentplaybar</find>
+      <find>respondToSwipeGesture</find>
+      <find>func respondToSwipeGesture</find>
+      <find>getwaveformdata</find>
+      <find>getwa</find>
+      <find>getwaveform</find>
+      <find>graphwidth</find>
+      <find>getwaveofm</find>
+      <find>sampleRate</find>
+      <find>widthRate</find>
+      <find>subGraphRate</find>
+      <find>graphWidth</find>
+      <find>subGraphWidth</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/AutoRepeatPlayer/SongQuery.swift" />
+        <option value="$PROJECT_DIR$/AutoRepeatPlayer/MP3Player.swift" />
+        <option value="$PROJECT_DIR$/AutoRepeatPlayer/CategoryTableViewController.swift" />
+        <option value="$PROJECT_DIR$/AutoRepeatPlayer/model/MP3Player.swift" />
+        <option value="$PROJECT_DIR$/AutoRepeatPlayer/CurrentPlaylistTableViewController.swift" />
+        <option value="$PROJECT_DIR$/AutoRepeatPlayer/TableViewController.swift" />
+        <option value="$PROJECT_DIR$/AutoRepeatPlayer/AppDelegate.swift" />
+        <option value="$PROJECT_DIR$/AutoRepeatPlayer/PlayerViewController.swift" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AutoRepeatPlayer" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AutoRepeatPlayer" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AutoRepeatPlayer" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AutoRepeatPlayer" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AutoRepeatPlayer" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="model" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AutoRepeatPlayer" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AutoRepeatPlayer" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controller" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Cidr.FilesView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="FullScreen" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.AutoRepeatPlayer">
+    <configuration default="true" type="AppleRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" MAKE_ACTIVE="TRUE">
+      <envs />
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="OCGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="OCUnitRunConfiguration" factoryName="XCTest/Kiwi" PASS_PARENT_ENVS_2="true" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="AutoRepeatPlayer" type="AppleRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AutoRepeatPlayer" TARGET_NAME="AutoRepeatPlayer" CONFIG_NAME="Debug" SCHEME_NAME="AutoRepeatPlayer" RUN_TARGET_PROJECT_NAME="AutoRepeatPlayer" RUN_TARGET_NAME="AutoRepeatPlayer" MAKE_ACTIVE="TRUE">
+      <envs />
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <method />
+    </configuration>
+    <configuration default="false" name="MyDrawKit" type="AppleRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="AutoRepeatPlayer" TARGET_NAME="MyDrawKit" CONFIG_NAME="Debug" SCHEME_NAME="MyDrawKit" MAKE_ACTIVE="TRUE">
+      <envs />
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.AutoRepeatPlayer" />
+      <item index="1" class="java.lang.String" itemvalue="Application.MyDrawKit" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3bd1eb5b-8c95-45b4-877a-aab26c687ea7" name="Default" comment="" />
+      <created>1496638965475</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1496638965475</updated>
+      <workItem from="1496638968914" duration="4119000" />
+      <workItem from="1497244881045" duration="1012000" />
+      <workItem from="1497764616512" duration="977000" />
+      <workItem from="1497774712808" duration="46000" />
+      <workItem from="1497774788247" duration="1293000" />
+      <workItem from="1497880115631" duration="538000" />
+      <workItem from="1498649151895" duration="1735000" />
+      <workItem from="1499673494905" duration="37000" />
+      <workItem from="1500285102188" duration="976000" />
+      <workItem from="1503658669634" duration="1805000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12538000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942554" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33880422" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.62016416" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39976552" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/AutoRepeatPlayer/model/SongQuery.swift</url>
+          <line>209</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/AutoRepeatPlayer/model/SongQuery.swift</url>
+          <line>51</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/AutoRepeatPlayer/PlayerViewController.swift</url>
+          <line>133</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/AutoRepeatPlayer/TableViewController.swift</url>
+          <line>133</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="6" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/AutoRepeatPlayer/CategoryCell.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoRepeatPlayer/CustomCell.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SlideInPresentationController.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="4" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SlideInPresentationManager.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="902">
+          <caret line="41" column="22" lean-forward="false" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoRepeatPlayer/TableViewController.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4422">
+          <caret line="203" column="19" lean-forward="false" selection-start-line="203" selection-start-column="19" selection-end-line="203" selection-end-column="19" />
+          <folding>
+            <marker date="1502438719000" expanded="true" signature="306:312" ph="{...}" />
+            <marker date="1502438719000" expanded="true" signature="5244:5355" ph="{...}" />
+            <marker date="1502438719000" expanded="true" signature="5279:5355" ph="{...}" />
+            <marker date="1502438719000" expanded="true" signature="5395:5825" ph="{...}" />
+            <marker date="1502438719000" expanded="true" signature="5872:5999" ph="{...}" />
+            <marker date="1502438719000" expanded="true" signature="6106:6677" ph="{...}" />
+            <marker date="1502438719000" expanded="true" signature="6720:6747" ph="{...}" />
+            <marker date="1502438719000" expanded="true" signature="6785:7767" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoRepeatPlayer/CategoryTableViewController.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="814">
+          <caret line="37" column="35" lean-forward="false" selection-start-line="33" selection-start-column="8" selection-end-line="37" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoRepeatPlayer/PlayerViewController.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="41" column="12" lean-forward="false" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
+          <folding>
+            <marker date="1503660332000" expanded="true" signature="32154:32156" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoRepeatPlayer/AppDelegate.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="25" column="38" lean-forward="false" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+          <folding>
+            <element signature="e#137#149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoRepeatPlayer/model/MP3Player.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="24" column="21" lean-forward="false" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+          <folding>
+            <marker date="1502628244000" expanded="true" signature="2676:2804" ph="{...}" />
+            <marker date="1502628244000" expanded="true" signature="14465:14471" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoRepeatPlayer/CategoryCell.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoRepeatPlayer/CustomCell.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SlideInPresentationController.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="4" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SlideInPresentationManager.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="902">
+          <caret line="41" column="22" lean-forward="true" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoRepeatPlayer/TableViewController.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="44" column="60" lean-forward="false" selection-start-line="44" selection-start-column="34" selection-end-line="44" selection-end-column="60" />
+          <folding>
+            <marker date="1502438719000" expanded="true" signature="306:312" ph="{...}" />
+            <marker date="1502438719000" expanded="true" signature="5244:5355" ph="{...}" />
+            <marker date="1502438719000" expanded="true" signature="5279:5355" ph="{...}" />
+            <marker date="1502438719000" expanded="true" signature="5395:5825" ph="{...}" />
+            <marker date="1502438719000" expanded="true" signature="5872:5999" ph="{...}" />
+            <marker date="1502438719000" expanded="true" signature="6106:6677" ph="{...}" />
+            <marker date="1502438719000" expanded="true" signature="6720:6747" ph="{...}" />
+            <marker date="1502438719000" expanded="true" signature="6785:7767" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoRepeatPlayer/CategoryTableViewController.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="814">
+          <caret line="37" column="35" lean-forward="false" selection-start-line="33" selection-start-column="8" selection-end-line="37" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoRepeatPlayer/AppDelegate.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="25" column="38" lean-forward="false" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+          <folding>
+            <element signature="e#137#149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoRepeatPlayer/PlayerViewController.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="41" column="12" lean-forward="false" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="12" />
+          <folding>
+            <marker date="1503660332000" expanded="true" signature="32154:32156" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoRepeatPlayer/model/MP3Player.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4290">
+          <caret line="195" column="38" lean-forward="false" selection-start-line="195" selection-start-column="30" selection-end-line="195" selection-end-column="38" />
+          <folding>
+            <marker date="1502628244000" expanded="true" signature="2676:2804" ph="{...}" />
+            <marker date="1502628244000" expanded="true" signature="14465:14471" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoRepeatPlayer/model/SongQuery.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="24" lean-forward="false" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+          <folding>
+            <marker date="1500388271000" expanded="true" signature="188:221" ph="{...}" />
+            <marker date="1500388271000" expanded="true" signature="188:306" ph="{...}" />
+            <marker date="1500388271000" expanded="true" signature="8634:8635" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoRepeatPlayer/PlayerViewController.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1650">
+          <caret line="76" column="36" lean-forward="false" selection-start-line="76" selection-start-column="36" selection-end-line="76" selection-end-column="36" />
+          <folding>
+            <marker date="1503660332000" expanded="true" signature="32154:32156" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoRepeatPlayer/AppDelegate.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="33" column="5" lean-forward="false" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+          <folding>
+            <element signature="e#137#149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoRepeatPlayer/TableViewController.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+          <folding>
+            <marker date="1502438719000" expanded="true" signature="306:312" ph="{...}" />
+            <marker date="1502438719000" expanded="true" signature="5244:5355" ph="{...}" />
+            <marker date="1502438719000" expanded="true" signature="5279:5355" ph="{...}" />
+            <marker date="1502438719000" expanded="true" signature="5395:5825" ph="{...}" />
+            <marker date="1502438719000" expanded="true" signature="5872:5999" ph="{...}" />
+            <marker date="1502438719000" expanded="true" signature="6106:6677" ph="{...}" />
+            <marker date="1502438719000" expanded="true" signature="6720:6747" ph="{...}" />
+            <marker date="1502438719000" expanded="true" signature="6785:7767" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoRepeatPlayer/model/MP3Player.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4290">
+          <caret line="195" column="38" lean-forward="false" selection-start-line="195" selection-start-column="30" selection-end-line="195" selection-end-column="38" />
+          <folding>
+            <marker date="1502628244000" expanded="true" signature="2676:2804" ph="{...}" />
+            <marker date="1502628244000" expanded="true" signature="14465:14471" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoRepeatPlayer/model/SongQuery.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="24" column="24" lean-forward="false" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+          <folding>
+            <marker date="1500388271000" expanded="true" signature="188:221" ph="{...}" />
+            <marker date="1500388271000" expanded="true" signature="188:306" ph="{...}" />
+            <marker date="1500388271000" expanded="true" signature="8634:8635" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoRepeatPlayer/PlayerViewController.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1650">
+          <caret line="76" column="36" lean-forward="false" selection-start-line="76" selection-start-column="36" selection-end-line="76" selection-end-column="36" />
+          <folding>
+            <marker date="1503660332000" expanded="true" signature="32154:32156" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoRepeatPlayer/AppDelegate.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="33" column="5" lean-forward="false" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+          <folding>
+            <element signature="e#137#149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoRepeatPlayer/TableViewController.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="15" column="22" lean-forward="false" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+          <folding>
+            <marker date="1502438719000" expanded="true" signature="306:312" ph="{...}" />
+            <marker date="1502438719000" expanded="true" signature="5244:5355" ph="{...}" />
+            <marker date="1502438719000" expanded="true" signature="5279:5355" ph="{...}" />
+            <marker date="1502438719000" expanded="true" signature="5395:5825" ph="{...}" />
+            <marker date="1502438719000" expanded="true" signature="5872:5999" ph="{...}" />
+            <marker date="1502438719000" expanded="true" signature="6106:6677" ph="{...}" />
+            <marker date="1502438719000" expanded="true" signature="6720:6747" ph="{...}" />
+            <marker date="1502438719000" expanded="true" signature="6785:7767" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoRepeatPlayer/model/MP3Player.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1502628244000" expanded="true" signature="2676:2804" ph="{...}" />
+            <marker date="1502628244000" expanded="true" signature="14465:14471" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoRepeatPlayer/model/SongQuery.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="24" column="24" lean-forward="false" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+          <folding>
+            <marker date="1500388271000" expanded="true" signature="188:221" ph="{...}" />
+            <marker date="1500388271000" expanded="true" signature="188:306" ph="{...}" />
+            <marker date="1500388271000" expanded="true" signature="8634:8635" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoRepeatPlayer/TableViewController.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2106">
+          <caret line="119" column="13" lean-forward="false" selection-start-line="119" selection-start-column="13" selection-end-line="119" selection-end-column="13" />
+          <folding>
+            <marker date="1502438719000" expanded="true" signature="306:312" ph="{...}" />
+            <marker date="1502438719000" expanded="true" signature="5244:5355" ph="{...}" />
+            <marker date="1502438719000" expanded="true" signature="5279:5355" ph="{...}" />
+            <marker date="1502438719000" expanded="true" signature="5395:5825" ph="{...}" />
+            <marker date="1502438719000" expanded="true" signature="5872:5999" ph="{...}" />
+            <marker date="1502438719000" expanded="true" signature="6106:6677" ph="{...}" />
+            <marker date="1502438719000" expanded="true" signature="6720:6747" ph="{...}" />
+            <marker date="1502438719000" expanded="true" signature="6785:7767" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoRepeatPlayer/PlayerViewController.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="51" column="36" lean-forward="false" selection-start-line="51" selection-start-column="36" selection-end-line="51" selection-end-column="36" />
+          <folding>
+            <marker date="1503660332000" expanded="true" signature="32154:32156" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoRepeatPlayer/AppDelegate.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="e#137#149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoRepeatPlayer/model/MP3Player.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="25" column="39" lean-forward="false" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
+          <folding>
+            <marker date="1502628244000" expanded="true" signature="2676:2804" ph="{...}" />
+            <marker date="1502628244000" expanded="true" signature="14465:14471" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoRepeatPlayer/model/SongQuery.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="23" column="24" lean-forward="false" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="24" />
+          <folding>
+            <marker date="1500388271000" expanded="true" signature="188:221" ph="{...}" />
+            <marker date="1500388271000" expanded="true" signature="188:306" ph="{...}" />
+            <marker date="1500388271000" expanded="true" signature="8634:8635" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoRepeatPlayer/TableViewController.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2016">
+          <caret line="114" column="36" lean-forward="false" selection-start-line="114" selection-start-column="36" selection-end-line="114" selection-end-column="36" />
+          <folding>
+            <marker date="1502438719000" expanded="true" signature="306:312" ph="{...}" />
+            <marker date="1502438719000" expanded="true" signature="5244:5355" ph="{...}" />
+            <marker date="1502438719000" expanded="true" signature="5279:5355" ph="{...}" />
+            <marker date="1502438719000" expanded="true" signature="5395:5825" ph="{...}" />
+            <marker date="1502438719000" expanded="true" signature="5872:5999" ph="{...}" />
+            <marker date="1502438719000" expanded="true" signature="6106:6677" ph="{...}" />
+            <marker date="1502438719000" expanded="true" signature="6720:6747" ph="{...}" />
+            <marker date="1502438719000" expanded="true" signature="6785:7767" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoRepeatPlayer/PlayerViewController.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="45" column="36" lean-forward="false" selection-start-line="45" selection-start-column="36" selection-end-line="45" selection-end-column="36" />
+          <folding>
+            <marker date="1503660332000" expanded="true" signature="32154:32156" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoRepeatPlayer/AppDelegate.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="e#137#149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoRepeatPlayer/model/SongQuery.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="24" column="24" lean-forward="false" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+          <folding>
+            <marker date="1500388271000" expanded="true" signature="188:221" ph="{...}" />
+            <marker date="1500388271000" expanded="true" signature="188:306" ph="{...}" />
+            <marker date="1500388271000" expanded="true" signature="8634:8635" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoRepeatPlayer/CategoryTableViewController.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" column="35" lean-forward="false" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoRepeatPlayer/CategoryCell.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoRepeatPlayer/CustomCell.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SlideInPresentationController.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="4" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SlideInPresentationManager.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="902">
+          <caret line="41" column="22" lean-forward="false" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoRepeatPlayer/model/MP3Player.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8536">
+          <caret line="390" column="19" lean-forward="false" selection-start-line="390" selection-start-column="19" selection-end-line="390" selection-end-column="19" />
+          <folding>
+            <marker date="1502628244000" expanded="true" signature="2676:2804" ph="{...}" />
+            <marker date="1502628244000" expanded="true" signature="14465:14471" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoRepeatPlayer/AlbumCollectionViewController.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoRepeatPlayer/PlaylistViewController.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoRepeatPlayer/CurrentPlaylistTableViewController.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="20" column="8" lean-forward="false" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoRepeatPlayer/CurrentPlayStateBarView.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <folding>
+            <marker date="1498720805000" expanded="true" signature="4380:4580" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoRepeatPlayer/TableViewController.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1430">
+          <caret line="67" column="5" lean-forward="false" selection-start-line="67" selection-start-column="5" selection-end-line="67" selection-end-column="5" />
+          <folding>
+            <marker date="1502438719000" expanded="true" signature="306:312" ph="{...}" />
+            <marker date="1502438719000" expanded="true" signature="5244:5355" ph="{...}" />
+            <marker date="1502438719000" expanded="true" signature="5279:5355" ph="{...}" />
+            <marker date="1502438719000" expanded="true" signature="5395:5825" ph="{...}" />
+            <marker date="1502438719000" expanded="true" signature="5872:5999" ph="{...}" />
+            <marker date="1502438719000" expanded="true" signature="6106:6677" ph="{...}" />
+            <marker date="1502438719000" expanded="true" signature="6720:6747" ph="{...}" />
+            <marker date="1502438719000" expanded="true" signature="6785:7767" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoRepeatPlayer/AppDelegate.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="26" lean-forward="false" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+          <folding>
+            <element signature="e#137#149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutoRepeatPlayer/PlayerViewController.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="469" column="26" lean-forward="true" selection-start-line="469" selection-start-column="12" selection-end-line="469" selection-end-column="26" />
+          <folding>
+            <marker date="1503660332000" expanded="true" signature="32154:32156" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

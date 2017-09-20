@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "3c20df09991a5b7b773c68c7f4612a5b"
+build_time: [554022015, 394504000]
+inputs:
+  "/Users/jmk/Desktop/AutoRepeatPlayer2/MyDrawKit/MyDrawView.swift": [553927769, 0]

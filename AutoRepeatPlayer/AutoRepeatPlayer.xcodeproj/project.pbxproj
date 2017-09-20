@@ -1,0 +1,772 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1551B9C07EBDC87E7ADDBFBF /* Pods_AutoRepeatPlayer.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B1E8D7BE4CD9DAEA7DFC0A26 /* Pods_AutoRepeatPlayer.framework */; };
+		19B882B50AB4F5ECD9619984 /* SongQuery.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19B88521489A5CEE105925BE /* SongQuery.swift */; };
+		19B886BC0B3B3CB7DFDC66AB /* CustomCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19B88CD21D79258FC19AD166 /* CustomCell.swift */; };
+		19B8884B7BF51BD8E7B063DD /* MP3Player.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19B88C37B3EAAFBC0B0E72D8 /* MP3Player.swift */; };
+		19B88C139BC06AEC03592BD3 /* CategoryCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19B88A7FB4BE04679D7F98F3 /* CategoryCell.swift */; };
+		9E043D37F5A0ADE7703F11DB /* Pods_MyDrawKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D3A1EF46C7B17BE46F10B4A7 /* Pods_MyDrawKit.framework */; };
+		A015468D1EDE986E005DED68 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A015468C1EDE986E005DED68 /* AppDelegate.swift */; };
+		A01546941EDE986E005DED68 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A01546921EDE986E005DED68 /* Main.storyboard */; };
+		A01546961EDE986E005DED68 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A01546951EDE986E005DED68 /* Assets.xcassets */; };
+		A01546991EDE986E005DED68 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A01546971EDE986E005DED68 /* LaunchScreen.storyboard */; };
+		A01546A41EDEA07C005DED68 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A01546A31EDEA07C005DED68 /* TableViewController.swift */; };
+		A023455E1EDEDCB900E5874D /* PlayerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A023455D1EDEDCB900E5874D /* PlayerViewController.swift */; };
+		A045247E1F3C709E0018B1CB /* LoadingHUD.swift in Sources */ = {isa = PBXBuildFile; fileRef = A045247D1F3C709E0018B1CB /* LoadingHUD.swift */; };
+		A048CC9E1EFCEAF8008F6B86 /* PlaylistTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A048CC9D1EFCEAF8008F6B86 /* PlaylistTableViewCell.swift */; };
+		A048CCA01EFCEB13008F6B86 /* AlbumCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A048CC9F1EFCEB13008F6B86 /* AlbumCollectionViewCell.swift */; };
+		A048CCA21EFCEB46008F6B86 /* ArtistTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A048CCA11EFCEB46008F6B86 /* ArtistTableViewCell.swift */; };
+		A048CCA41EFCEB67008F6B86 /* GenreTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A048CCA31EFCEB67008F6B86 /* GenreTableViewCell.swift */; };
+		A048CCA61EFCFA59008F6B86 /* AlbumCollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A048CCA51EFCFA59008F6B86 /* AlbumCollectionViewController.swift */; };
+		A048CCA81EFCFA6C008F6B86 /* GenreViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A048CCA71EFCFA6C008F6B86 /* GenreViewController.swift */; };
+		A048CCAA1EFCFA79008F6B86 /* ArtistViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A048CCA91EFCFA79008F6B86 /* ArtistViewController.swift */; };
+		A048CCAC1EFCFA86008F6B86 /* PlaylistViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A048CCAB1EFCFA86008F6B86 /* PlaylistViewController.swift */; };
+		A04BF64B1EE6A185005C92FF /* CategoryTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A04BF64A1EE6A185005C92FF /* CategoryTableViewController.swift */; };
+		A05443BD1F0CB77F0089FEAA /* MyDrawKit.h in Headers */ = {isa = PBXBuildFile; fileRef = A05443BB1F0CB77F0089FEAA /* MyDrawKit.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		A05443C01F0CB77F0089FEAA /* MyDrawKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A05443B91F0CB77F0089FEAA /* MyDrawKit.framework */; };
+		A05443C11F0CB77F0089FEAA /* MyDrawKit.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = A05443B91F0CB77F0089FEAA /* MyDrawKit.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		A05443C71F0CB8000089FEAA /* MyDrawView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A05443C61F0CB8000089FEAA /* MyDrawView.swift */; };
+		A0C4DABC1F349319000A98CD /* SlideInPresentationAnimator.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0C4DABB1F349319000A98CD /* SlideInPresentationAnimator.swift */; };
+		A0C4DABE1F34936F000A98CD /* SlideInPresentationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0C4DABD1F34936F000A98CD /* SlideInPresentationController.swift */; };
+		A0C4DAC01F34938E000A98CD /* SlideInPresentationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0C4DABF1F34938E000A98CD /* SlideInPresentationManager.swift */; };
+		A0D3380F1F04EB7000CFC8BA /* libsqlite3.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = A0D3380D1F04EAF400CFC8BA /* libsqlite3.tbd */; };
+		A0DC585E1EE2A1B700B95B83 /* MediaPlayer.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A0DC585D1EE2A1B700B95B83 /* MediaPlayer.framework */; };
+		A0E74F591F0215BD0083370B /* CurrentPlaylistTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0E74F581F0215BD0083370B /* CurrentPlaylistTableViewController.swift */; };
+		A0F212C61EF8BDBD000D5B94 /* CurrentPlayStateBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0F212C51EF8BDBD000D5B94 /* CurrentPlayStateBarView.swift */; };
+		A0F212C81EF8C07C000D5B94 /* CurrentPlayStateBarView.xib in Resources */ = {isa = PBXBuildFile; fileRef = A0F212C71EF8C07C000D5B94 /* CurrentPlayStateBarView.xib */; };
+		A0F7DC7E1F023F1B00F5677C /* CurrentPlaylistCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0F7DC7D1F023F1B00F5677C /* CurrentPlaylistCell.swift */; };
+		A0F7DC801F0295F700F5677C /* PlaylistHeaderViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0F7DC7F1F0295F700F5677C /* PlaylistHeaderViewCell.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		A05443BE1F0CB77F0089FEAA /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = A01546811EDE986E005DED68 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = A05443B81F0CB77F0089FEAA;
+			remoteInfo = MyDrawKit;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		A05443C51F0CB77F0089FEAA /* Embed Frameworks */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				A05443C11F0CB77F0089FEAA /* MyDrawKit.framework in Embed Frameworks */,
+			);
+			name = "Embed Frameworks";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		19B88521489A5CEE105925BE /* SongQuery.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SongQuery.swift; sourceTree = "<group>"; };
+		19B88A7FB4BE04679D7F98F3 /* CategoryCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CategoryCell.swift; sourceTree = "<group>"; };
+		19B88C37B3EAAFBC0B0E72D8 /* MP3Player.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MP3Player.swift; sourceTree = "<group>"; };
+		19B88CD21D79258FC19AD166 /* CustomCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomCell.swift; sourceTree = "<group>"; };
+		3ACB97F387628007F4CDA45A /* Pods-MyDrawKit.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyDrawKit.debug.xcconfig"; path = "Pods/Target Support Files/Pods-MyDrawKit/Pods-MyDrawKit.debug.xcconfig"; sourceTree = "<group>"; };
+		A01546891EDE986E005DED68 /* AutoRepeatPlayer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AutoRepeatPlayer.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A015468C1EDE986E005DED68 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		A01546931EDE986E005DED68 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		A01546951EDE986E005DED68 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		A01546981EDE986E005DED68 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		A015469A1EDE986E005DED68 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A01546A31EDEA07C005DED68 /* TableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
+		A023455D1EDEDCB900E5874D /* PlayerViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlayerViewController.swift; sourceTree = "<group>"; };
+		A045247D1F3C709E0018B1CB /* LoadingHUD.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoadingHUD.swift; sourceTree = "<group>"; };
+		A048CC9D1EFCEAF8008F6B86 /* PlaylistTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlaylistTableViewCell.swift; sourceTree = "<group>"; };
+		A048CC9F1EFCEB13008F6B86 /* AlbumCollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AlbumCollectionViewCell.swift; sourceTree = "<group>"; };
+		A048CCA11EFCEB46008F6B86 /* ArtistTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ArtistTableViewCell.swift; sourceTree = "<group>"; };
+		A048CCA31EFCEB67008F6B86 /* GenreTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GenreTableViewCell.swift; sourceTree = "<group>"; };
+		A048CCA51EFCFA59008F6B86 /* AlbumCollectionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AlbumCollectionViewController.swift; sourceTree = "<group>"; };
+		A048CCA71EFCFA6C008F6B86 /* GenreViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GenreViewController.swift; sourceTree = "<group>"; };
+		A048CCA91EFCFA79008F6B86 /* ArtistViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ArtistViewController.swift; sourceTree = "<group>"; };
+		A048CCAB1EFCFA86008F6B86 /* PlaylistViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlaylistViewController.swift; sourceTree = "<group>"; };
+		A04BF64A1EE6A185005C92FF /* CategoryTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CategoryTableViewController.swift; sourceTree = "<group>"; };
+		A05443B91F0CB77F0089FEAA /* MyDrawKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = MyDrawKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		A05443BB1F0CB77F0089FEAA /* MyDrawKit.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MyDrawKit.h; sourceTree = "<group>"; };
+		A05443BC1F0CB77F0089FEAA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A05443C61F0CB8000089FEAA /* MyDrawView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyDrawView.swift; sourceTree = "<group>"; };
+		A0C4DABB1F349319000A98CD /* SlideInPresentationAnimator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SlideInPresentationAnimator.swift; sourceTree = "<group>"; };
+		A0C4DABD1F34936F000A98CD /* SlideInPresentationController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SlideInPresentationController.swift; sourceTree = "<group>"; };
+		A0C4DABF1F34938E000A98CD /* SlideInPresentationManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SlideInPresentationManager.swift; sourceTree = "<group>"; };
+		A0D3380D1F04EAF400CFC8BA /* libsqlite3.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libsqlite3.tbd; path = usr/lib/libsqlite3.tbd; sourceTree = SDKROOT; };
+		A0D338101F04EBB400CFC8BA /* AutoRepeatPlayer-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "AutoRepeatPlayer-Bridging-Header.h"; sourceTree = "<group>"; };
+		A0D732601F23540900E8C237 /* AudioKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioKit.framework; path = "../../../../Downloads/AudioKit-iOS/AudioKit.framework"; sourceTree = "<group>"; };
+		A0DC585D1EE2A1B700B95B83 /* MediaPlayer.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MediaPlayer.framework; path = System/Library/Frameworks/MediaPlayer.framework; sourceTree = SDKROOT; };
+		A0E74F581F0215BD0083370B /* CurrentPlaylistTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CurrentPlaylistTableViewController.swift; sourceTree = "<group>"; };
+		A0F212C51EF8BDBD000D5B94 /* CurrentPlayStateBarView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CurrentPlayStateBarView.swift; sourceTree = "<group>"; };
+		A0F212C71EF8C07C000D5B94 /* CurrentPlayStateBarView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = CurrentPlayStateBarView.xib; path = ../CurrentPlayStateBarView.xib; sourceTree = "<group>"; };
+		A0F7DC7D1F023F1B00F5677C /* CurrentPlaylistCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CurrentPlaylistCell.swift; sourceTree = "<group>"; };
+		A0F7DC7F1F0295F700F5677C /* PlaylistHeaderViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlaylistHeaderViewCell.swift; sourceTree = "<group>"; };
+		B1E8D7BE4CD9DAEA7DFC0A26 /* Pods_AutoRepeatPlayer.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AutoRepeatPlayer.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		B275060DC7F662D6766E30D1 /* Pods-AutoRepeatPlayer.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AutoRepeatPlayer.release.xcconfig"; path = "Pods/Target Support Files/Pods-AutoRepeatPlayer/Pods-AutoRepeatPlayer.release.xcconfig"; sourceTree = "<group>"; };
+		D3A1EF46C7B17BE46F10B4A7 /* Pods_MyDrawKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MyDrawKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		D47587CC1B21064EAAEE0A05 /* Pods-MyDrawKit.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyDrawKit.release.xcconfig"; path = "Pods/Target Support Files/Pods-MyDrawKit/Pods-MyDrawKit.release.xcconfig"; sourceTree = "<group>"; };
+		EEBD26DD8F3C83016C924EDF /* Pods-AutoRepeatPlayer.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AutoRepeatPlayer.debug.xcconfig"; path = "Pods/Target Support Files/Pods-AutoRepeatPlayer/Pods-AutoRepeatPlayer.debug.xcconfig"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		A01546861EDE986E005DED68 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A0D3380F1F04EB7000CFC8BA /* libsqlite3.tbd in Frameworks */,
+				A0DC585E1EE2A1B700B95B83 /* MediaPlayer.framework in Frameworks */,
+				A05443C01F0CB77F0089FEAA /* MyDrawKit.framework in Frameworks */,
+				1551B9C07EBDC87E7ADDBFBF /* Pods_AutoRepeatPlayer.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A05443B51F0CB77F0089FEAA /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9E043D37F5A0ADE7703F11DB /* Pods_MyDrawKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		19B88377E7791F0DEC707809 /* CellModel */ = {
+			isa = PBXGroup;
+			children = (
+				19B88CD21D79258FC19AD166 /* CustomCell.swift */,
+				19B88A7FB4BE04679D7F98F3 /* CategoryCell.swift */,
+				A048CC9D1EFCEAF8008F6B86 /* PlaylistTableViewCell.swift */,
+				A048CC9F1EFCEB13008F6B86 /* AlbumCollectionViewCell.swift */,
+				A048CCA11EFCEB46008F6B86 /* ArtistTableViewCell.swift */,
+				A048CCA31EFCEB67008F6B86 /* GenreTableViewCell.swift */,
+				A0F7DC7D1F023F1B00F5677C /* CurrentPlaylistCell.swift */,
+				A0F7DC7F1F0295F700F5677C /* PlaylistHeaderViewCell.swift */,
+			);
+			name = CellModel;
+			path = AutoRepeatPlayer;
+			sourceTree = SOURCE_ROOT;
+		};
+		19B88D20BFC1F680B93BBEFA /* view */ = {
+			isa = PBXGroup;
+			children = (
+				A0F212C71EF8C07C000D5B94 /* CurrentPlayStateBarView.xib */,
+				19B88377E7791F0DEC707809 /* CellModel */,
+				A045247D1F3C709E0018B1CB /* LoadingHUD.swift */,
+			);
+			path = view;
+			sourceTree = "<group>";
+		};
+		19B88D8F2338C1D1E64251FA /* model */ = {
+			isa = PBXGroup;
+			children = (
+				19B88C37B3EAAFBC0B0E72D8 /* MP3Player.swift */,
+				19B88521489A5CEE105925BE /* SongQuery.swift */,
+			);
+			path = model;
+			sourceTree = "<group>";
+		};
+		19B88F832D80A15A5DAD4F00 /* util */ = {
+			isa = PBXGroup;
+			children = (
+				A0C4DABA1F3492FB000A98CD /* Presentation */,
+			);
+			path = util;
+			sourceTree = "<group>";
+		};
+		72A7852C21625CE0342BCA10 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				EEBD26DD8F3C83016C924EDF /* Pods-AutoRepeatPlayer.debug.xcconfig */,
+				B275060DC7F662D6766E30D1 /* Pods-AutoRepeatPlayer.release.xcconfig */,
+				3ACB97F387628007F4CDA45A /* Pods-MyDrawKit.debug.xcconfig */,
+				D47587CC1B21064EAAEE0A05 /* Pods-MyDrawKit.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		A01546801EDE986E005DED68 = {
+			isa = PBXGroup;
+			children = (
+				A0D732601F23540900E8C237 /* AudioKit.framework */,
+				A015468B1EDE986E005DED68 /* AutoRepeatPlayer */,
+				A05443BA1F0CB77F0089FEAA /* MyDrawKit */,
+				A015468A1EDE986E005DED68 /* Products */,
+				A0DC585C1EE2A1B700B95B83 /* Frameworks */,
+				72A7852C21625CE0342BCA10 /* Pods */,
+			);
+			sourceTree = "<group>";
+		};
+		A015468A1EDE986E005DED68 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				A01546891EDE986E005DED68 /* AutoRepeatPlayer.app */,
+				A05443B91F0CB77F0089FEAA /* MyDrawKit.framework */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		A015468B1EDE986E005DED68 /* AutoRepeatPlayer */ = {
+			isa = PBXGroup;
+			children = (
+				A01546A01EDE9F37005DED68 /* Controller */,
+				19B88D8F2338C1D1E64251FA /* model */,
+				19B88D20BFC1F680B93BBEFA /* view */,
+				19B88F832D80A15A5DAD4F00 /* util */,
+				A015468C1EDE986E005DED68 /* AppDelegate.swift */,
+				A01546921EDE986E005DED68 /* Main.storyboard */,
+				A01546951EDE986E005DED68 /* Assets.xcassets */,
+				A01546971EDE986E005DED68 /* LaunchScreen.storyboard */,
+				A015469A1EDE986E005DED68 /* Info.plist */,
+				A0D338101F04EBB400CFC8BA /* AutoRepeatPlayer-Bridging-Header.h */,
+			);
+			path = AutoRepeatPlayer;
+			sourceTree = "<group>";
+		};
+		A01546A01EDE9F37005DED68 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				A023455D1EDEDCB900E5874D /* PlayerViewController.swift */,
+				A01546A31EDEA07C005DED68 /* TableViewController.swift */,
+				A04BF64A1EE6A185005C92FF /* CategoryTableViewController.swift */,
+				A0F212C51EF8BDBD000D5B94 /* CurrentPlayStateBarView.swift */,
+				A048CCA51EFCFA59008F6B86 /* AlbumCollectionViewController.swift */,
+				A048CCA71EFCFA6C008F6B86 /* GenreViewController.swift */,
+				A048CCA91EFCFA79008F6B86 /* ArtistViewController.swift */,
+				A048CCAB1EFCFA86008F6B86 /* PlaylistViewController.swift */,
+				A0E74F581F0215BD0083370B /* CurrentPlaylistTableViewController.swift */,
+			);
+			name = Controller;
+			sourceTree = "<group>";
+		};
+		A05443BA1F0CB77F0089FEAA /* MyDrawKit */ = {
+			isa = PBXGroup;
+			children = (
+				A05443BB1F0CB77F0089FEAA /* MyDrawKit.h */,
+				A05443BC1F0CB77F0089FEAA /* Info.plist */,
+				A05443C61F0CB8000089FEAA /* MyDrawView.swift */,
+			);
+			path = MyDrawKit;
+			sourceTree = "<group>";
+		};
+		A0C4DABA1F3492FB000A98CD /* Presentation */ = {
+			isa = PBXGroup;
+			children = (
+				A0C4DABB1F349319000A98CD /* SlideInPresentationAnimator.swift */,
+				A0C4DABD1F34936F000A98CD /* SlideInPresentationController.swift */,
+				A0C4DABF1F34938E000A98CD /* SlideInPresentationManager.swift */,
+			);
+			name = Presentation;
+			sourceTree = "<group>";
+		};
+		A0DC585C1EE2A1B700B95B83 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				A0D3380D1F04EAF400CFC8BA /* libsqlite3.tbd */,
+				A0DC585D1EE2A1B700B95B83 /* MediaPlayer.framework */,
+				B1E8D7BE4CD9DAEA7DFC0A26 /* Pods_AutoRepeatPlayer.framework */,
+				D3A1EF46C7B17BE46F10B4A7 /* Pods_MyDrawKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		A05443B61F0CB77F0089FEAA /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A05443BD1F0CB77F0089FEAA /* MyDrawKit.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		A01546881EDE986E005DED68 /* AutoRepeatPlayer */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A015469D1EDE986E005DED68 /* Build configuration list for PBXNativeTarget "AutoRepeatPlayer" */;
+			buildPhases = (
+				B74F3A196A6C284971A30AD5 /* [CP] Check Pods Manifest.lock */,
+				A01546851EDE986E005DED68 /* Sources */,
+				A01546861EDE986E005DED68 /* Frameworks */,
+				A01546871EDE986E005DED68 /* Resources */,
+				A05443C51F0CB77F0089FEAA /* Embed Frameworks */,
+				45FC80317C6B5FA71BEE54B4 /* [CP] Embed Pods Frameworks */,
+				7814DC058C90226774A42C9A /* [CP] Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				A05443BF1F0CB77F0089FEAA /* PBXTargetDependency */,
+			);
+			name = AutoRepeatPlayer;
+			productName = AutoRepeatPlayer;
+			productReference = A01546891EDE986E005DED68 /* AutoRepeatPlayer.app */;
+			productType = "com.apple.product-type.application";
+		};
+		A05443B81F0CB77F0089FEAA /* MyDrawKit */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A05443C21F0CB77F0089FEAA /* Build configuration list for PBXNativeTarget "MyDrawKit" */;
+			buildPhases = (
+				F4FD09101FE84289572795E1 /* [CP] Check Pods Manifest.lock */,
+				A05443B41F0CB77F0089FEAA /* Sources */,
+				A05443B51F0CB77F0089FEAA /* Frameworks */,
+				A05443B61F0CB77F0089FEAA /* Headers */,
+				A05443B71F0CB77F0089FEAA /* Resources */,
+				1AF096F373DD8252521274A2 /* [CP] Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MyDrawKit;
+			productName = MyDrawKit;
+			productReference = A05443B91F0CB77F0089FEAA /* MyDrawKit.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		A01546811EDE986E005DED68 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0830;
+				LastUpgradeCheck = 0830;
+				ORGANIZATIONNAME = jmk;
+				TargetAttributes = {
+					A01546881EDE986E005DED68 = {
+						CreatedOnToolsVersion = 8.3.2;
+						DevelopmentTeam = D7EM732945;
+						ProvisioningStyle = Manual;
+						SystemCapabilities = {
+							com.apple.BackgroundModes = {
+								enabled = 1;
+							};
+						};
+					};
+					A05443B81F0CB77F0089FEAA = {
+						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = 3W4F86NVZL;
+						LastSwiftMigration = 0830;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = A01546841EDE986E005DED68 /* Build configuration list for PBXProject "AutoRepeatPlayer" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = A01546801EDE986E005DED68;
+			productRefGroup = A015468A1EDE986E005DED68 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				A01546881EDE986E005DED68 /* AutoRepeatPlayer */,
+				A05443B81F0CB77F0089FEAA /* MyDrawKit */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		A01546871EDE986E005DED68 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A01546991EDE986E005DED68 /* LaunchScreen.storyboard in Resources */,
+				A01546961EDE986E005DED68 /* Assets.xcassets in Resources */,
+				A0F212C81EF8C07C000D5B94 /* CurrentPlayStateBarView.xib in Resources */,
+				A01546941EDE986E005DED68 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A05443B71F0CB77F0089FEAA /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		1AF096F373DD8252521274A2 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-MyDrawKit/Pods-MyDrawKit-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		45FC80317C6B5FA71BEE54B4 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-AutoRepeatPlayer/Pods-AutoRepeatPlayer-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		7814DC058C90226774A42C9A /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-AutoRepeatPlayer/Pods-AutoRepeatPlayer-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		B74F3A196A6C284971A30AD5 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		F4FD09101FE84289572795E1 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		A01546851EDE986E005DED68 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A015468D1EDE986E005DED68 /* AppDelegate.swift in Sources */,
+				A0F7DC7E1F023F1B00F5677C /* CurrentPlaylistCell.swift in Sources */,
+				A023455E1EDEDCB900E5874D /* PlayerViewController.swift in Sources */,
+				A0C4DAC01F34938E000A98CD /* SlideInPresentationManager.swift in Sources */,
+				A04BF64B1EE6A185005C92FF /* CategoryTableViewController.swift in Sources */,
+				A0C4DABC1F349319000A98CD /* SlideInPresentationAnimator.swift in Sources */,
+				A048CCA01EFCEB13008F6B86 /* AlbumCollectionViewCell.swift in Sources */,
+				A01546A41EDEA07C005DED68 /* TableViewController.swift in Sources */,
+				A048CCA41EFCEB67008F6B86 /* GenreTableViewCell.swift in Sources */,
+				19B886BC0B3B3CB7DFDC66AB /* CustomCell.swift in Sources */,
+				19B88C139BC06AEC03592BD3 /* CategoryCell.swift in Sources */,
+				A048CCA21EFCEB46008F6B86 /* ArtistTableViewCell.swift in Sources */,
+				A0F212C61EF8BDBD000D5B94 /* CurrentPlayStateBarView.swift in Sources */,
+				A048CCA61EFCFA59008F6B86 /* AlbumCollectionViewController.swift in Sources */,
+				A0C4DABE1F34936F000A98CD /* SlideInPresentationController.swift in Sources */,
+				A0F7DC801F0295F700F5677C /* PlaylistHeaderViewCell.swift in Sources */,
+				19B8884B7BF51BD8E7B063DD /* MP3Player.swift in Sources */,
+				19B882B50AB4F5ECD9619984 /* SongQuery.swift in Sources */,
+				A045247E1F3C709E0018B1CB /* LoadingHUD.swift in Sources */,
+				A048CCA81EFCFA6C008F6B86 /* GenreViewController.swift in Sources */,
+				A048CCAC1EFCFA86008F6B86 /* PlaylistViewController.swift in Sources */,
+				A048CC9E1EFCEAF8008F6B86 /* PlaylistTableViewCell.swift in Sources */,
+				A0E74F591F0215BD0083370B /* CurrentPlaylistTableViewController.swift in Sources */,
+				A048CCAA1EFCFA79008F6B86 /* ArtistViewController.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A05443B41F0CB77F0089FEAA /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A05443C71F0CB8000089FEAA /* MyDrawView.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		A05443BF1F0CB77F0089FEAA /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = A05443B81F0CB77F0089FEAA /* MyDrawKit */;
+			targetProxy = A05443BE1F0CB77F0089FEAA /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		A01546921EDE986E005DED68 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A01546931EDE986E005DED68 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		A01546971EDE986E005DED68 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A01546981EDE986E005DED68 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		A015469B1EDE986E005DED68 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		A015469C1EDE986E005DED68 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		A015469E1EDE986E005DED68 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = EEBD26DD8F3C83016C924EDF /* Pods-AutoRepeatPlayer.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = D7EM732945;
+				INFOPLIST_FILE = AutoRepeatPlayer/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				NEW_SETTING = "";
+				PRODUCT_BUNDLE_IDENTIFIER = kr.co.jmk.AutoRepeatPlayer;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "4192a0cf-f3d1-4aca-882f-08aac497175d";
+				PROVISIONING_PROFILE_SPECIFIER = "Auto repeat player debug profile";
+				SWIFT_OBJC_BRIDGING_HEADER = "./AutoRepeatPlayer/AutoRepeatPlayer-Bridging-Header.h";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		A015469F1EDE986E005DED68 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = B275060DC7F662D6766E30D1 /* Pods-AutoRepeatPlayer.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = D7EM732945;
+				INFOPLIST_FILE = AutoRepeatPlayer/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				NEW_SETTING = "";
+				PRODUCT_BUNDLE_IDENTIFIER = kr.co.jmk.AutoRepeatPlayer;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "4192a0cf-f3d1-4aca-882f-08aac497175d";
+				PROVISIONING_PROFILE_SPECIFIER = "Auto repeat player debug profile";
+				SWIFT_OBJC_BRIDGING_HEADER = "./AutoRepeatPlayer/AutoRepeatPlayer-Bridging-Header.h";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+		A05443C31F0CB77F0089FEAA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 3ACB97F387628007F4CDA45A /* Pods-MyDrawKit.debug.xcconfig */;
+			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_IDENTITY = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DEVELOPMENT_TEAM = 3W4F86NVZL;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = MyDrawKit/Info.plist;
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = kr.co.jmkwp7.MyDrawKit;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		A05443C41F0CB77F0089FEAA /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = D47587CC1B21064EAAEE0A05 /* Pods-MyDrawKit.release.xcconfig */;
+			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_IDENTITY = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DEVELOPMENT_TEAM = 3W4F86NVZL;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = MyDrawKit/Info.plist;
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = kr.co.jmkwp7.MyDrawKit;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		A01546841EDE986E005DED68 /* Build configuration list for PBXProject "AutoRepeatPlayer" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A015469B1EDE986E005DED68 /* Debug */,
+				A015469C1EDE986E005DED68 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A015469D1EDE986E005DED68 /* Build configuration list for PBXNativeTarget "AutoRepeatPlayer" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A015469E1EDE986E005DED68 /* Debug */,
+				A015469F1EDE986E005DED68 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A05443C21F0CB77F0089FEAA /* Build configuration list for PBXNativeTarget "MyDrawKit" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A05443C31F0CB77F0089FEAA /* Debug */,
+				A05443C41F0CB77F0089FEAA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = A01546811EDE986E005DED68 /* Project object */;
+}

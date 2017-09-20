@@ -1,0 +1,819 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "SlideInPresentationController"
+provides-nominal:
+- "C16AutoRepeatPlayer29SlideInPresentationController"
+provides-member:
+- ["C16AutoRepeatPlayer29SlideInPresentationController", ""]
+provides-dynamic-lookup:
+- "containerViewWillLayoutSubviews"
+- "dismissalTransitionWillBegin"
+- "frameOfPresentedViewInContainerView"
+- "handleTap"
+- "presentationTransitionWillBegin"
+- "size"
+depends-top-level:
+- !private "*"
+- !private "/"
+- !private "Array"
+- "AssignmentPrecedence"
+- !private "BooleanLiteralType"
+- "CGRect"
+- "CGSize"
+- !private "Dictionary"
+- !private "NSLayoutConstraint"
+- "PresentationDirection"
+- "SlideInPresentationController"
+- !private "StringLiteralType"
+- !private "UIColor"
+- "UIContentContainer"
+- "UIPresentationController"
+- !private "UITapGestureRecognizer"
+- "UIView"
+- "UIViewController"
+depends-member:
+- !private ["Ps9AnyObject", "CGSize"]
+- !private ["Ps9AnyObject", "NSLayoutConstraint"]
+- !private ["Ps9AnyObject", "UIColor"]
+- !private ["Ps9AnyObject", "UITapGestureRecognizer"]
+- !private ["Ps9AnyObject", "UIView"]
+- !private ["Ps9AnyObject", "activate"]
+- !private ["Ps9AnyObject", "addGestureRecognizer"]
+- !private ["Ps9AnyObject", "alpha"]
+- !private ["Ps9AnyObject", "backgroundColor"]
+- !private ["Ps9AnyObject", "bounds"]
+- !private ["Ps9AnyObject", "constraints"]
+- !private ["Ps9AnyObject", "containerView"]
+- !private ["Ps9AnyObject", "dimmingView"]
+- !private ["Ps9AnyObject", "direction"]
+- !private ["Ps9AnyObject", "dismiss"]
+- !private ["Ps9AnyObject", "frame"]
+- !private ["Ps9AnyObject", "frameOfPresentedViewInContainerView"]
+- !private ["Ps9AnyObject", "handleTap"]
+- !private ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "insertSubview"]
+- !private ["Ps9AnyObject", "presentedView"]
+- !private ["Ps9AnyObject", "presentedViewController"]
+- !private ["Ps9AnyObject", "presentingViewController"]
+- !private ["Ps9AnyObject", "setupDimmingView"]
+- !private ["Ps9AnyObject", "size"]
+- !private ["Ps9AnyObject", "transitionCoordinator"]
+- !private ["Ps9AnyObject", "translatesAutoresizingMaskIntoConstraints"]
+- ["Ps9AnyObject", ""]
+- !private ["PSo15CALayerDelegate", "addGestureRecognizer"]
+- !private ["PSo15CALayerDelegate", "alpha"]
+- !private ["PSo15CALayerDelegate", "backgroundColor"]
+- !private ["PSo15CALayerDelegate", "bounds"]
+- !private ["PSo15CALayerDelegate", "frame"]
+- !private ["PSo15CALayerDelegate", "init"]
+- !private ["PSo15CALayerDelegate", "insertSubview"]
+- !private ["PSo15CALayerDelegate", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["VSC7CGPoint", "x"]
+- !private ["VSC7CGPoint", "y"]
+- !private ["VSC7CGPoint", "zero"]
+- !private ["VSC6CGRect", "height"]
+- !private ["VSC6CGRect", "origin"]
+- !private ["VSC6CGRect", "size"]
+- !private ["VSC6CGRect", "width"]
+- !private ["VSC6CGRect", "zero"]
+- !private ["VSC6CGSize", "height"]
+- !private ["VSC6CGSize", "init"]
+- !private ["VSC6CGSize", "width"]
+- !private ["Ps7CVarArg", "CGSize"]
+- !private ["Ps7CVarArg", "NSLayoutConstraint"]
+- !private ["Ps7CVarArg", "UIColor"]
+- !private ["Ps7CVarArg", "UITapGestureRecognizer"]
+- !private ["Ps7CVarArg", "UIView"]
+- !private ["Ps7CVarArg", "activate"]
+- !private ["Ps7CVarArg", "addGestureRecognizer"]
+- !private ["Ps7CVarArg", "alpha"]
+- !private ["Ps7CVarArg", "backgroundColor"]
+- !private ["Ps7CVarArg", "bounds"]
+- !private ["Ps7CVarArg", "constraints"]
+- !private ["Ps7CVarArg", "containerView"]
+- !private ["Ps7CVarArg", "dimmingView"]
+- !private ["Ps7CVarArg", "direction"]
+- !private ["Ps7CVarArg", "dismiss"]
+- !private ["Ps7CVarArg", "frame"]
+- !private ["Ps7CVarArg", "frameOfPresentedViewInContainerView"]
+- !private ["Ps7CVarArg", "handleTap"]
+- !private ["Ps7CVarArg", "init"]
+- !private ["Ps7CVarArg", "insertSubview"]
+- !private ["Ps7CVarArg", "presentedView"]
+- !private ["Ps7CVarArg", "presentedViewController"]
+- !private ["Ps7CVarArg", "presentingViewController"]
+- !private ["Ps7CVarArg", "setupDimmingView"]
+- !private ["Ps7CVarArg", "size"]
+- !private ["Ps7CVarArg", "transitionCoordinator"]
+- !private ["Ps7CVarArg", "translatesAutoresizingMaskIntoConstraints"]
+- ["Ps7CVarArg", ""]
+- !private ["Ps10Comparable", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "CGSize"]
+- !private ["Ps28CustomDebugStringConvertible", "NSLayoutConstraint"]
+- !private ["Ps28CustomDebugStringConvertible", "UIColor"]
+- !private ["Ps28CustomDebugStringConvertible", "UITapGestureRecognizer"]
+- !private ["Ps28CustomDebugStringConvertible", "UIView"]
+- !private ["Ps28CustomDebugStringConvertible", "activate"]
+- !private ["Ps28CustomDebugStringConvertible", "addGestureRecognizer"]
+- !private ["Ps28CustomDebugStringConvertible", "alpha"]
+- !private ["Ps28CustomDebugStringConvertible", "backgroundColor"]
+- !private ["Ps28CustomDebugStringConvertible", "bounds"]
+- !private ["Ps28CustomDebugStringConvertible", "constraints"]
+- !private ["Ps28CustomDebugStringConvertible", "containerView"]
+- !private ["Ps28CustomDebugStringConvertible", "dimmingView"]
+- !private ["Ps28CustomDebugStringConvertible", "direction"]
+- !private ["Ps28CustomDebugStringConvertible", "dismiss"]
+- !private ["Ps28CustomDebugStringConvertible", "frame"]
+- !private ["Ps28CustomDebugStringConvertible", "frameOfPresentedViewInContainerView"]
+- !private ["Ps28CustomDebugStringConvertible", "handleTap"]
+- !private ["Ps28CustomDebugStringConvertible", "height"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "insertSubview"]
+- !private ["Ps28CustomDebugStringConvertible", "origin"]
+- !private ["Ps28CustomDebugStringConvertible", "presentedView"]
+- !private ["Ps28CustomDebugStringConvertible", "presentedViewController"]
+- !private ["Ps28CustomDebugStringConvertible", "presentingViewController"]
+- !private ["Ps28CustomDebugStringConvertible", "setupDimmingView"]
+- !private ["Ps28CustomDebugStringConvertible", "size"]
+- !private ["Ps28CustomDebugStringConvertible", "transitionCoordinator"]
+- !private ["Ps28CustomDebugStringConvertible", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["Ps28CustomDebugStringConvertible", "width"]
+- !private ["Ps28CustomDebugStringConvertible", "x"]
+- !private ["Ps28CustomDebugStringConvertible", "y"]
+- !private ["Ps28CustomDebugStringConvertible", "zero"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps29CustomPlaygroundQuickLookable", "height"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "init"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "origin"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "size"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "width"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "x"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "y"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "zero"]
+- !private ["Ps17CustomReflectable", "height"]
+- !private ["Ps17CustomReflectable", "init"]
+- !private ["Ps17CustomReflectable", "origin"]
+- !private ["Ps17CustomReflectable", "size"]
+- !private ["Ps17CustomReflectable", "width"]
+- !private ["Ps17CustomReflectable", "x"]
+- !private ["Ps17CustomReflectable", "y"]
+- !private ["Ps17CustomReflectable", "zero"]
+- !private ["Ps23CustomStringConvertible", "CGSize"]
+- !private ["Ps23CustomStringConvertible", "NSLayoutConstraint"]
+- !private ["Ps23CustomStringConvertible", "UIColor"]
+- !private ["Ps23CustomStringConvertible", "UITapGestureRecognizer"]
+- !private ["Ps23CustomStringConvertible", "UIView"]
+- !private ["Ps23CustomStringConvertible", "activate"]
+- !private ["Ps23CustomStringConvertible", "addGestureRecognizer"]
+- !private ["Ps23CustomStringConvertible", "alpha"]
+- !private ["Ps23CustomStringConvertible", "backgroundColor"]
+- !private ["Ps23CustomStringConvertible", "bounds"]
+- !private ["Ps23CustomStringConvertible", "constraints"]
+- !private ["Ps23CustomStringConvertible", "containerView"]
+- !private ["Ps23CustomStringConvertible", "dimmingView"]
+- !private ["Ps23CustomStringConvertible", "direction"]
+- !private ["Ps23CustomStringConvertible", "dismiss"]
+- !private ["Ps23CustomStringConvertible", "frame"]
+- !private ["Ps23CustomStringConvertible", "frameOfPresentedViewInContainerView"]
+- !private ["Ps23CustomStringConvertible", "handleTap"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "insertSubview"]
+- !private ["Ps23CustomStringConvertible", "presentedView"]
+- !private ["Ps23CustomStringConvertible", "presentedViewController"]
+- !private ["Ps23CustomStringConvertible", "presentingViewController"]
+- !private ["Ps23CustomStringConvertible", "setupDimmingView"]
+- !private ["Ps23CustomStringConvertible", "size"]
+- !private ["Ps23CustomStringConvertible", "transitionCoordinator"]
+- !private ["Ps23CustomStringConvertible", "translatesAutoresizingMaskIntoConstraints"]
+- ["Ps23CustomStringConvertible", ""]
+- !private ["Ps9Equatable", "CGSize"]
+- !private ["Ps9Equatable", "NSLayoutConstraint"]
+- !private ["Ps9Equatable", "UIColor"]
+- !private ["Ps9Equatable", "UITapGestureRecognizer"]
+- !private ["Ps9Equatable", "UIView"]
+- !private ["Ps9Equatable", "activate"]
+- !private ["Ps9Equatable", "addGestureRecognizer"]
+- !private ["Ps9Equatable", "alpha"]
+- !private ["Ps9Equatable", "backgroundColor"]
+- ["Ps9Equatable", "bottom"]
+- !private ["Ps9Equatable", "bounds"]
+- !private ["Ps9Equatable", "constraints"]
+- !private ["Ps9Equatable", "containerView"]
+- !private ["Ps9Equatable", "dimmingView"]
+- !private ["Ps9Equatable", "direction"]
+- !private ["Ps9Equatable", "dismiss"]
+- !private ["Ps9Equatable", "frame"]
+- !private ["Ps9Equatable", "frameOfPresentedViewInContainerView"]
+- !private ["Ps9Equatable", "handleTap"]
+- !private ["Ps9Equatable", "height"]
+- !private ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "insertSubview"]
+- ["Ps9Equatable", "left"]
+- !private ["Ps9Equatable", "origin"]
+- !private ["Ps9Equatable", "presentedView"]
+- !private ["Ps9Equatable", "presentedViewController"]
+- !private ["Ps9Equatable", "presentingViewController"]
+- ["Ps9Equatable", "right"]
+- !private ["Ps9Equatable", "setupDimmingView"]
+- !private ["Ps9Equatable", "size"]
+- ["Ps9Equatable", "top"]
+- !private ["Ps9Equatable", "transitionCoordinator"]
+- !private ["Ps9Equatable", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["Ps9Equatable", "width"]
+- !private ["Ps9Equatable", "x"]
+- !private ["Ps9Equatable", "y"]
+- !private ["Ps9Equatable", "zero"]
+- ["Ps9Equatable", ""]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps26ExpressibleByStringLiteral", "init"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- !private ["Ps8Hashable", "CGSize"]
+- !private ["Ps8Hashable", "NSLayoutConstraint"]
+- !private ["Ps8Hashable", "UIColor"]
+- !private ["Ps8Hashable", "UITapGestureRecognizer"]
+- !private ["Ps8Hashable", "UIView"]
+- !private ["Ps8Hashable", "activate"]
+- !private ["Ps8Hashable", "addGestureRecognizer"]
+- !private ["Ps8Hashable", "alpha"]
+- !private ["Ps8Hashable", "backgroundColor"]
+- ["Ps8Hashable", "bottom"]
+- !private ["Ps8Hashable", "bounds"]
+- !private ["Ps8Hashable", "constraints"]
+- !private ["Ps8Hashable", "containerView"]
+- !private ["Ps8Hashable", "dimmingView"]
+- !private ["Ps8Hashable", "direction"]
+- !private ["Ps8Hashable", "dismiss"]
+- !private ["Ps8Hashable", "frame"]
+- !private ["Ps8Hashable", "frameOfPresentedViewInContainerView"]
+- !private ["Ps8Hashable", "handleTap"]
+- !private ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "insertSubview"]
+- ["Ps8Hashable", "left"]
+- !private ["Ps8Hashable", "presentedView"]
+- !private ["Ps8Hashable", "presentedViewController"]
+- !private ["Ps8Hashable", "presentingViewController"]
+- ["Ps8Hashable", "right"]
+- !private ["Ps8Hashable", "setupDimmingView"]
+- !private ["Ps8Hashable", "size"]
+- ["Ps8Hashable", "top"]
+- !private ["Ps8Hashable", "transitionCoordinator"]
+- !private ["Ps8Hashable", "translatesAutoresizingMaskIntoConstraints"]
+- ["Ps8Hashable", ""]
+- !private ["Ps25LosslessStringConvertible", "init"]
+- !private ["Ps10MirrorPath", "init"]
+- !private ["PSo8NSCoding", "addGestureRecognizer"]
+- !private ["PSo8NSCoding", "alpha"]
+- !private ["PSo8NSCoding", "backgroundColor"]
+- !private ["PSo8NSCoding", "bounds"]
+- !private ["PSo8NSCoding", "dismiss"]
+- !private ["PSo8NSCoding", "frame"]
+- !private ["PSo8NSCoding", "init"]
+- !private ["PSo8NSCoding", "insertSubview"]
+- !private ["PSo8NSCoding", "transitionCoordinator"]
+- !private ["PSo8NSCoding", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["PSo9NSCopying", "init"]
+- !private ["PSo26NSExtensionRequestHandling", "dismiss"]
+- !private ["PSo26NSExtensionRequestHandling", "transitionCoordinator"]
+- !private ["CSo18NSLayoutConstraint", "activate"]
+- !private ["CSo18NSLayoutConstraint", "constraints"]
+- !private ["PSo16NSMutableCopying", "init"]
+- ["CSo8NSObject", "CGRect"]
+- ["CSo8NSObject", "CGSize"]
+- !private ["CSo8NSObject", "NSLayoutConstraint"]
+- ["CSo8NSObject", "PresentationDirection"]
+- !private ["CSo8NSObject", "UIColor"]
+- ["CSo8NSObject", "UIContentContainer"]
+- !private ["CSo8NSObject", "UITapGestureRecognizer"]
+- ["CSo8NSObject", "UIView"]
+- ["CSo8NSObject", "UIViewController"]
+- !private ["CSo8NSObject", "activate"]
+- !private ["CSo8NSObject", "addGestureRecognizer"]
+- !private ["CSo8NSObject", "alpha"]
+- !private ["CSo8NSObject", "backgroundColor"]
+- !private ["CSo8NSObject", "bounds"]
+- !private ["CSo8NSObject", "constraints"]
+- !private ["CSo8NSObject", "containerView"]
+- ["CSo8NSObject", "containerViewWillLayoutSubviews"]
+- ["CSo8NSObject", "dimmingView"]
+- ["CSo8NSObject", "direction"]
+- !private ["CSo8NSObject", "dismiss"]
+- ["CSo8NSObject", "dismissalTransitionWillBegin"]
+- !private ["CSo8NSObject", "frame"]
+- ["CSo8NSObject", "frameOfPresentedViewInContainerView"]
+- !private ["CSo8NSObject", "handleTap"]
+- ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "insertSubview"]
+- ["CSo8NSObject", "presentationTransitionWillBegin"]
+- !private ["CSo8NSObject", "presentedView"]
+- !private ["CSo8NSObject", "presentedViewController"]
+- !private ["CSo8NSObject", "presentingViewController"]
+- !private ["CSo8NSObject", "setupDimmingView"]
+- ["CSo8NSObject", "size"]
+- !private ["CSo8NSObject", "transitionCoordinator"]
+- !private ["CSo8NSObject", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["PSo16NSObjectProtocol", "CGSize"]
+- !private ["PSo16NSObjectProtocol", "NSLayoutConstraint"]
+- !private ["PSo16NSObjectProtocol", "UIColor"]
+- !private ["PSo16NSObjectProtocol", "UITapGestureRecognizer"]
+- !private ["PSo16NSObjectProtocol", "UIView"]
+- !private ["PSo16NSObjectProtocol", "activate"]
+- !private ["PSo16NSObjectProtocol", "addGestureRecognizer"]
+- !private ["PSo16NSObjectProtocol", "alpha"]
+- !private ["PSo16NSObjectProtocol", "animate"]
+- !private ["PSo16NSObjectProtocol", "backgroundColor"]
+- !private ["PSo16NSObjectProtocol", "bounds"]
+- !private ["PSo16NSObjectProtocol", "constraints"]
+- !private ["PSo16NSObjectProtocol", "containerView"]
+- !private ["PSo16NSObjectProtocol", "dimmingView"]
+- !private ["PSo16NSObjectProtocol", "direction"]
+- !private ["PSo16NSObjectProtocol", "dismiss"]
+- !private ["PSo16NSObjectProtocol", "frame"]
+- !private ["PSo16NSObjectProtocol", "frameOfPresentedViewInContainerView"]
+- !private ["PSo16NSObjectProtocol", "handleTap"]
+- !private ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "insertSubview"]
+- !private ["PSo16NSObjectProtocol", "presentedView"]
+- !private ["PSo16NSObjectProtocol", "presentedViewController"]
+- !private ["PSo16NSObjectProtocol", "presentingViewController"]
+- !private ["PSo16NSObjectProtocol", "setupDimmingView"]
+- !private ["PSo16NSObjectProtocol", "size"]
+- !private ["PSo16NSObjectProtocol", "transitionCoordinator"]
+- !private ["PSo16NSObjectProtocol", "translatesAutoresizingMaskIntoConstraints"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["PSo14NSSecureCoding", "init"]
+- !private ["CSo8NSString", "init"]
+- !private ["P8AudioKit10Occupiable", "init"]
+- ["O16AutoRepeatPlayer21PresentationDirection", "bottom"]
+- ["O16AutoRepeatPlayer21PresentationDirection", "left"]
+- ["O16AutoRepeatPlayer21PresentationDirection", "right"]
+- ["O16AutoRepeatPlayer21PresentationDirection", "top"]
+- ["C16AutoRepeatPlayer29SlideInPresentationController", "CGRect"]
+- ["C16AutoRepeatPlayer29SlideInPresentationController", "CGSize"]
+- !private ["C16AutoRepeatPlayer29SlideInPresentationController", "NSLayoutConstraint"]
+- ["C16AutoRepeatPlayer29SlideInPresentationController", "PresentationDirection"]
+- !private ["C16AutoRepeatPlayer29SlideInPresentationController", "UIColor"]
+- ["C16AutoRepeatPlayer29SlideInPresentationController", "UIContentContainer"]
+- !private ["C16AutoRepeatPlayer29SlideInPresentationController", "UITapGestureRecognizer"]
+- ["C16AutoRepeatPlayer29SlideInPresentationController", "UIView"]
+- ["C16AutoRepeatPlayer29SlideInPresentationController", "UIViewController"]
+- !private ["C16AutoRepeatPlayer29SlideInPresentationController", "containerView"]
+- ["C16AutoRepeatPlayer29SlideInPresentationController", "containerViewWillLayoutSubviews"]
+- ["C16AutoRepeatPlayer29SlideInPresentationController", "deinit"]
+- !private ["C16AutoRepeatPlayer29SlideInPresentationController", "dimmingView"]
+- !private ["C16AutoRepeatPlayer29SlideInPresentationController", "direction"]
+- ["C16AutoRepeatPlayer29SlideInPresentationController", "dismissalTransitionWillBegin"]
+- ["C16AutoRepeatPlayer29SlideInPresentationController", "frameOfPresentedViewInContainerView"]
+- !private ["C16AutoRepeatPlayer29SlideInPresentationController", "handleTap"]
+- ["C16AutoRepeatPlayer29SlideInPresentationController", "init"]
+- ["C16AutoRepeatPlayer29SlideInPresentationController", "presentationTransitionWillBegin"]
+- !private ["C16AutoRepeatPlayer29SlideInPresentationController", "presentedView"]
+- !private ["C16AutoRepeatPlayer29SlideInPresentationController", "presentedViewController"]
+- !private ["C16AutoRepeatPlayer29SlideInPresentationController", "presentingViewController"]
+- !private ["C16AutoRepeatPlayer29SlideInPresentationController", "setupDimmingView"]
+- ["C16AutoRepeatPlayer29SlideInPresentationController", "size"]
+- !private ["Vs12StaticString", "init"]
+- !private ["SS", "init"]
+- !private ["Ps16TextOutputStream", "init"]
+- !private ["Ps20TextOutputStreamable", "init"]
+- !private ["PSo29UIAccessibilityIdentification", "addGestureRecognizer"]
+- !private ["PSo29UIAccessibilityIdentification", "alpha"]
+- !private ["PSo29UIAccessibilityIdentification", "backgroundColor"]
+- !private ["PSo29UIAccessibilityIdentification", "bounds"]
+- !private ["PSo29UIAccessibilityIdentification", "frame"]
+- !private ["PSo29UIAccessibilityIdentification", "init"]
+- !private ["PSo29UIAccessibilityIdentification", "insertSubview"]
+- !private ["PSo29UIAccessibilityIdentification", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["PSo12UIAppearance", "addGestureRecognizer"]
+- !private ["PSo12UIAppearance", "alpha"]
+- !private ["PSo12UIAppearance", "backgroundColor"]
+- !private ["PSo12UIAppearance", "bounds"]
+- !private ["PSo12UIAppearance", "frame"]
+- !private ["PSo12UIAppearance", "init"]
+- !private ["PSo12UIAppearance", "insertSubview"]
+- !private ["PSo12UIAppearance", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["PSo21UIAppearanceContainer", "CGSize"]
+- !private ["PSo21UIAppearanceContainer", "NSLayoutConstraint"]
+- !private ["PSo21UIAppearanceContainer", "UIColor"]
+- !private ["PSo21UIAppearanceContainer", "UITapGestureRecognizer"]
+- !private ["PSo21UIAppearanceContainer", "UIView"]
+- !private ["PSo21UIAppearanceContainer", "addGestureRecognizer"]
+- !private ["PSo21UIAppearanceContainer", "alpha"]
+- !private ["PSo21UIAppearanceContainer", "backgroundColor"]
+- !private ["PSo21UIAppearanceContainer", "bounds"]
+- !private ["PSo21UIAppearanceContainer", "containerView"]
+- !private ["PSo21UIAppearanceContainer", "dimmingView"]
+- !private ["PSo21UIAppearanceContainer", "direction"]
+- !private ["PSo21UIAppearanceContainer", "dismiss"]
+- !private ["PSo21UIAppearanceContainer", "frame"]
+- !private ["PSo21UIAppearanceContainer", "frameOfPresentedViewInContainerView"]
+- !private ["PSo21UIAppearanceContainer", "handleTap"]
+- !private ["PSo21UIAppearanceContainer", "init"]
+- !private ["PSo21UIAppearanceContainer", "insertSubview"]
+- !private ["PSo21UIAppearanceContainer", "presentedView"]
+- !private ["PSo21UIAppearanceContainer", "presentedViewController"]
+- !private ["PSo21UIAppearanceContainer", "presentingViewController"]
+- !private ["PSo21UIAppearanceContainer", "setupDimmingView"]
+- !private ["PSo21UIAppearanceContainer", "size"]
+- !private ["PSo21UIAppearanceContainer", "transitionCoordinator"]
+- !private ["PSo21UIAppearanceContainer", "translatesAutoresizingMaskIntoConstraints"]
+- ["PSo21UIAppearanceContainer", ""]
+- !private ["CSo7UIColor", "init"]
+- !private ["PSo18UIContentContainer", "CGSize"]
+- !private ["PSo18UIContentContainer", "NSLayoutConstraint"]
+- !private ["PSo18UIContentContainer", "UIColor"]
+- !private ["PSo18UIContentContainer", "UITapGestureRecognizer"]
+- !private ["PSo18UIContentContainer", "UIView"]
+- !private ["PSo18UIContentContainer", "containerView"]
+- !private ["PSo18UIContentContainer", "dimmingView"]
+- !private ["PSo18UIContentContainer", "direction"]
+- !private ["PSo18UIContentContainer", "dismiss"]
+- !private ["PSo18UIContentContainer", "frameOfPresentedViewInContainerView"]
+- !private ["PSo18UIContentContainer", "handleTap"]
+- !private ["PSo18UIContentContainer", "init"]
+- !private ["PSo18UIContentContainer", "presentedView"]
+- !private ["PSo18UIContentContainer", "presentedViewController"]
+- !private ["PSo18UIContentContainer", "presentingViewController"]
+- !private ["PSo18UIContentContainer", "setupDimmingView"]
+- !private ["PSo18UIContentContainer", "size"]
+- !private ["PSo18UIContentContainer", "transitionCoordinator"]
+- ["PSo18UIContentContainer", ""]
+- !private ["PSo17UICoordinateSpace", "addGestureRecognizer"]
+- !private ["PSo17UICoordinateSpace", "alpha"]
+- !private ["PSo17UICoordinateSpace", "backgroundColor"]
+- !private ["PSo17UICoordinateSpace", "bounds"]
+- !private ["PSo17UICoordinateSpace", "frame"]
+- !private ["PSo17UICoordinateSpace", "init"]
+- !private ["PSo17UICoordinateSpace", "insertSubview"]
+- !private ["PSo17UICoordinateSpace", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["PSo13UIDynamicItem", "addGestureRecognizer"]
+- !private ["PSo13UIDynamicItem", "alpha"]
+- !private ["PSo13UIDynamicItem", "backgroundColor"]
+- !private ["PSo13UIDynamicItem", "bounds"]
+- !private ["PSo13UIDynamicItem", "frame"]
+- !private ["PSo13UIDynamicItem", "init"]
+- !private ["PSo13UIDynamicItem", "insertSubview"]
+- !private ["PSo13UIDynamicItem", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["PSo18UIFocusEnvironment", "CGSize"]
+- !private ["PSo18UIFocusEnvironment", "NSLayoutConstraint"]
+- !private ["PSo18UIFocusEnvironment", "UIColor"]
+- !private ["PSo18UIFocusEnvironment", "UITapGestureRecognizer"]
+- !private ["PSo18UIFocusEnvironment", "UIView"]
+- !private ["PSo18UIFocusEnvironment", "addGestureRecognizer"]
+- !private ["PSo18UIFocusEnvironment", "alpha"]
+- !private ["PSo18UIFocusEnvironment", "backgroundColor"]
+- !private ["PSo18UIFocusEnvironment", "bounds"]
+- !private ["PSo18UIFocusEnvironment", "containerView"]
+- !private ["PSo18UIFocusEnvironment", "dimmingView"]
+- !private ["PSo18UIFocusEnvironment", "direction"]
+- !private ["PSo18UIFocusEnvironment", "dismiss"]
+- !private ["PSo18UIFocusEnvironment", "frame"]
+- !private ["PSo18UIFocusEnvironment", "frameOfPresentedViewInContainerView"]
+- !private ["PSo18UIFocusEnvironment", "handleTap"]
+- !private ["PSo18UIFocusEnvironment", "init"]
+- !private ["PSo18UIFocusEnvironment", "insertSubview"]
+- !private ["PSo18UIFocusEnvironment", "presentedView"]
+- !private ["PSo18UIFocusEnvironment", "presentedViewController"]
+- !private ["PSo18UIFocusEnvironment", "presentingViewController"]
+- !private ["PSo18UIFocusEnvironment", "setupDimmingView"]
+- !private ["PSo18UIFocusEnvironment", "size"]
+- !private ["PSo18UIFocusEnvironment", "transitionCoordinator"]
+- !private ["PSo18UIFocusEnvironment", "translatesAutoresizingMaskIntoConstraints"]
+- ["PSo18UIFocusEnvironment", ""]
+- !private ["PSo11UIFocusItem", "addGestureRecognizer"]
+- !private ["PSo11UIFocusItem", "alpha"]
+- !private ["PSo11UIFocusItem", "backgroundColor"]
+- !private ["PSo11UIFocusItem", "bounds"]
+- !private ["PSo11UIFocusItem", "frame"]
+- !private ["PSo11UIFocusItem", "init"]
+- !private ["PSo11UIFocusItem", "insertSubview"]
+- !private ["PSo11UIFocusItem", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["CSo19UIGestureRecognizer", "init"]
+- ["CSo24UIPresentationController", "CGRect"]
+- ["CSo24UIPresentationController", "CGSize"]
+- !private ["CSo24UIPresentationController", "NSLayoutConstraint"]
+- ["CSo24UIPresentationController", "PresentationDirection"]
+- !private ["CSo24UIPresentationController", "UIColor"]
+- ["CSo24UIPresentationController", "UIContentContainer"]
+- !private ["CSo24UIPresentationController", "UITapGestureRecognizer"]
+- ["CSo24UIPresentationController", "UIView"]
+- ["CSo24UIPresentationController", "UIViewController"]
+- !private ["CSo24UIPresentationController", "containerView"]
+- ["CSo24UIPresentationController", "containerViewWillLayoutSubviews"]
+- ["CSo24UIPresentationController", "dimmingView"]
+- ["CSo24UIPresentationController", "direction"]
+- ["CSo24UIPresentationController", "dismissalTransitionWillBegin"]
+- ["CSo24UIPresentationController", "frameOfPresentedViewInContainerView"]
+- !private ["CSo24UIPresentationController", "handleTap"]
+- ["CSo24UIPresentationController", "init"]
+- ["CSo24UIPresentationController", "presentationTransitionWillBegin"]
+- !private ["CSo24UIPresentationController", "presentedView"]
+- !private ["CSo24UIPresentationController", "presentedViewController"]
+- !private ["CSo24UIPresentationController", "presentingViewController"]
+- !private ["CSo24UIPresentationController", "setupDimmingView"]
+- ["CSo24UIPresentationController", "size"]
+- ["CSo24UIPresentationController", ""]
+- !private ["CSo11UIResponder", "addGestureRecognizer"]
+- !private ["CSo11UIResponder", "alpha"]
+- !private ["CSo11UIResponder", "backgroundColor"]
+- !private ["CSo11UIResponder", "bounds"]
+- !private ["CSo11UIResponder", "dismiss"]
+- !private ["CSo11UIResponder", "frame"]
+- !private ["CSo11UIResponder", "init"]
+- !private ["CSo11UIResponder", "insertSubview"]
+- !private ["CSo11UIResponder", "transitionCoordinator"]
+- !private ["CSo11UIResponder", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["PSo30UIResponderStandardEditActions", "addGestureRecognizer"]
+- !private ["PSo30UIResponderStandardEditActions", "alpha"]
+- !private ["PSo30UIResponderStandardEditActions", "backgroundColor"]
+- !private ["PSo30UIResponderStandardEditActions", "bounds"]
+- !private ["PSo30UIResponderStandardEditActions", "dismiss"]
+- !private ["PSo30UIResponderStandardEditActions", "frame"]
+- !private ["PSo30UIResponderStandardEditActions", "init"]
+- !private ["PSo30UIResponderStandardEditActions", "insertSubview"]
+- !private ["PSo30UIResponderStandardEditActions", "transitionCoordinator"]
+- !private ["PSo30UIResponderStandardEditActions", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["PSo16UIStateRestoring", "dismiss"]
+- !private ["PSo16UIStateRestoring", "transitionCoordinator"]
+- !private ["CSo22UITapGestureRecognizer", "init"]
+- !private ["PSo18UITraitEnvironment", "CGSize"]
+- !private ["PSo18UITraitEnvironment", "NSLayoutConstraint"]
+- !private ["PSo18UITraitEnvironment", "UIColor"]
+- !private ["PSo18UITraitEnvironment", "UITapGestureRecognizer"]
+- !private ["PSo18UITraitEnvironment", "UIView"]
+- !private ["PSo18UITraitEnvironment", "addGestureRecognizer"]
+- !private ["PSo18UITraitEnvironment", "alpha"]
+- !private ["PSo18UITraitEnvironment", "backgroundColor"]
+- !private ["PSo18UITraitEnvironment", "bounds"]
+- !private ["PSo18UITraitEnvironment", "containerView"]
+- !private ["PSo18UITraitEnvironment", "dimmingView"]
+- !private ["PSo18UITraitEnvironment", "direction"]
+- !private ["PSo18UITraitEnvironment", "dismiss"]
+- !private ["PSo18UITraitEnvironment", "frame"]
+- !private ["PSo18UITraitEnvironment", "frameOfPresentedViewInContainerView"]
+- !private ["PSo18UITraitEnvironment", "handleTap"]
+- !private ["PSo18UITraitEnvironment", "init"]
+- !private ["PSo18UITraitEnvironment", "insertSubview"]
+- !private ["PSo18UITraitEnvironment", "presentedView"]
+- !private ["PSo18UITraitEnvironment", "presentedViewController"]
+- !private ["PSo18UITraitEnvironment", "presentingViewController"]
+- !private ["PSo18UITraitEnvironment", "setupDimmingView"]
+- !private ["PSo18UITraitEnvironment", "size"]
+- !private ["PSo18UITraitEnvironment", "transitionCoordinator"]
+- !private ["PSo18UITraitEnvironment", "translatesAutoresizingMaskIntoConstraints"]
+- ["PSo18UITraitEnvironment", ""]
+- !private ["CSo6UIView", "addGestureRecognizer"]
+- !private ["CSo6UIView", "alpha"]
+- !private ["CSo6UIView", "backgroundColor"]
+- !private ["CSo6UIView", "bounds"]
+- !private ["CSo6UIView", "frame"]
+- !private ["CSo6UIView", "init"]
+- !private ["CSo6UIView", "insertSubview"]
+- !private ["CSo6UIView", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["CSo16UIViewController", "dismiss"]
+- !private ["CSo16UIViewController", "transitionCoordinator"]
+- !private ["PSo37UIViewControllerTransitionCoordinator", "animate"]
+- !private ["PSo44UIViewControllerTransitionCoordinatorContext", "animate"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "addGestureRecognizer"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "alpha"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "backgroundColor"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "bounds"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "frame"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "init"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "insertSubview"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "translatesAutoresizingMaskIntoConstraints"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- !private ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "init"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- !private ["Ps26_ExpressibleByColorLiteral", "init"]
+- !private ["Ps33_ExpressibleByStringInterpolation", "init"]
+- !private ["Ps35_HasCustomAnyHashableRepresentation", "init"]
+- !private ["Ps9_Hashable", "CGSize"]
+- !private ["Ps9_Hashable", "NSLayoutConstraint"]
+- !private ["Ps9_Hashable", "UIColor"]
+- !private ["Ps9_Hashable", "UITapGestureRecognizer"]
+- !private ["Ps9_Hashable", "UIView"]
+- !private ["Ps9_Hashable", "activate"]
+- !private ["Ps9_Hashable", "addGestureRecognizer"]
+- !private ["Ps9_Hashable", "alpha"]
+- !private ["Ps9_Hashable", "backgroundColor"]
+- ["Ps9_Hashable", "bottom"]
+- !private ["Ps9_Hashable", "bounds"]
+- !private ["Ps9_Hashable", "constraints"]
+- !private ["Ps9_Hashable", "containerView"]
+- !private ["Ps9_Hashable", "dimmingView"]
+- !private ["Ps9_Hashable", "direction"]
+- !private ["Ps9_Hashable", "dismiss"]
+- !private ["Ps9_Hashable", "frame"]
+- !private ["Ps9_Hashable", "frameOfPresentedViewInContainerView"]
+- !private ["Ps9_Hashable", "handleTap"]
+- !private ["Ps9_Hashable", "init"]
+- !private ["Ps9_Hashable", "insertSubview"]
+- ["Ps9_Hashable", "left"]
+- !private ["Ps9_Hashable", "presentedView"]
+- !private ["Ps9_Hashable", "presentedViewController"]
+- !private ["Ps9_Hashable", "presentingViewController"]
+- ["Ps9_Hashable", "right"]
+- !private ["Ps9_Hashable", "setupDimmingView"]
+- !private ["Ps9_Hashable", "size"]
+- ["Ps9_Hashable", "top"]
+- !private ["Ps9_Hashable", "transitionCoordinator"]
+- !private ["Ps9_Hashable", "translatesAutoresizingMaskIntoConstraints"]
+- ["Ps9_Hashable", ""]
+- !private ["Ps21_ObjectiveCBridgeable", "height"]
+- !private ["Ps21_ObjectiveCBridgeable", "init"]
+- !private ["Ps21_ObjectiveCBridgeable", "origin"]
+- !private ["Ps21_ObjectiveCBridgeable", "size"]
+- !private ["Ps21_ObjectiveCBridgeable", "width"]
+- !private ["Ps21_ObjectiveCBridgeable", "x"]
+- !private ["Ps21_ObjectiveCBridgeable", "y"]
+- !private ["Ps21_ObjectiveCBridgeable", "zero"]
+depends-nominal:
+- "Ps9AnyObject"
+- !private "PSo15CALayerDelegate"
+- !private "VSC7CGPoint"
+- !private "VSC6CGRect"
+- !private "VSC6CGSize"
+- "Ps7CVarArg"
+- !private "Ps10Comparable"
+- "Ps28CustomDebugStringConvertible"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- !private "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- !private "Ps26ExpressibleByStringLiteral"
+- !private "Ps33ExpressibleByUnicodeScalarLiteral"
+- "Ps8Hashable"
+- !private "Ps25LosslessStringConvertible"
+- !private "Ps10MirrorPath"
+- !private "PSo8NSCoding"
+- !private "PSo9NSCopying"
+- !private "PSo26NSExtensionRequestHandling"
+- !private "CSo18NSLayoutConstraint"
+- !private "PSo16NSMutableCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "PSo14NSSecureCoding"
+- !private "CSo8NSString"
+- !private "P8AudioKit10Occupiable"
+- "O16AutoRepeatPlayer21PresentationDirection"
+- "C16AutoRepeatPlayer29SlideInPresentationController"
+- !private "Vs12StaticString"
+- !private "SS"
+- !private "Ps16TextOutputStream"
+- !private "Ps20TextOutputStreamable"
+- !private "PSo29UIAccessibilityIdentification"
+- !private "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- !private "CSo7UIColor"
+- "PSo18UIContentContainer"
+- !private "PSo17UICoordinateSpace"
+- !private "PSo13UIDynamicItem"
+- "PSo18UIFocusEnvironment"
+- !private "PSo11UIFocusItem"
+- !private "CSo19UIGestureRecognizer"
+- "CSo24UIPresentationController"
+- !private "CSo11UIResponder"
+- !private "PSo30UIResponderStandardEditActions"
+- !private "PSo16UIStateRestoring"
+- !private "CSo22UITapGestureRecognizer"
+- "PSo18UITraitEnvironment"
+- !private "CSo6UIView"
+- !private "CSo16UIViewController"
+- !private "PSo37UIViewControllerTransitionCoordinator"
+- !private "PSo44UIViewControllerTransitionCoordinatorContext"
+- !private "Ps37_DefaultCustomPlaygroundQuickLookable"
+- !private "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- !private "Ps34_ExpressibleByBuiltinStringLiteral"
+- !private "Ps39_ExpressibleByBuiltinUTF16StringLiteral"
+- !private "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- !private "Ps26_ExpressibleByColorLiteral"
+- !private "Ps33_ExpressibleByStringInterpolation"
+- !private "Ps35_HasCustomAnyHashableRepresentation"
+- "Ps9_Hashable"
+- !private "Ps21_ObjectiveCBridgeable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Metal.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/AVFoundation.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/MediaPlayer.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/GLKit.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreText.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/AudioToolbox.apinotesc"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Modules/AudioKit.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreMedia.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/simd.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/AVFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreAudio.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/GLKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/EZAudioPlotGL.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/EZAudioFFT.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/EZAudioFloatData.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/EZAudioDevice.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/EZAudioFile.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKMicrophoneTrackerEngine.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/EZMicrophone.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKSporthStack.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/EZAudioDisplayLink.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/EZAudio.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/AutoRepeatPlayer/AutoRepeatPlayer-Bridging-Header.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/EZRecorder.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/TPCircularBuffer.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/EZAudioFileMarker.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKOfflineRenderer.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/EZAudioFloatConverter.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/EZAudioPlayer.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/EZAudioUtilities.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AudioKit-Swift.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AudioKit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKZitaReverbAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKFlatFrequencyResponseReverbAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKChowningReverbAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKCostelloReverbAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKCombFilterReverbAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKAmplitudeEnvelopeAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKWhiteNoiseAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKPinkNoiseAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKBrownianNoiseAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKFluteAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKPluckedStringAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKAutoWahAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKDCBlockAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKOscillatorBankAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKFMOscillatorBankAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKPWMOscillatorBankAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKMorphingOscillatorBankAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKPhaseDistortionOscillatorBankAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKMandolinAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKTanhDistortionAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKConvolutionAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKTremoloAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKRhodesPianoAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKDripAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKMetalBarAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKBalancerAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKMoogLadderAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKPhaseLockedVocoderAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKBitCrusherAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKShakerAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKAmplitudeTrackerAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKFrequencyTrackerAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKPannerAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKClipperAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKPhaserAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKPitchShifterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKStereoFieldLimiterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKRolandTB303FilterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKModalResonanceFilterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKToneFilterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKBandPassButterworthFilterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKHighPassButterworthFilterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKLowPassButterworthFilterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKBandRejectButterworthFilterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKEqualizerFilterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKHighShelfParametricEqualizerFilterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKLowShelfParametricEqualizerFilterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKPeakingParametricEqualizerFilterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKKorgLowPassFilterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKThreePoleLowpassFilterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKFormantFilterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKResonantFilterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKToneComplementFilterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKTesterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKBoosterAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKSamplePlayerAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKDynamicRangeCompressorAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKOscillatorAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKFMOscillatorAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKPWMOscillatorAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKMorphingOscillatorAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKPhaseDistortionOscillatorAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKStringResonatorAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKOperationGeneratorAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKTubularBellsAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKVocalTractAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKOperationEffectAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKClarinetAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/AKVariableDelayAudioUnit.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/EZPlot.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/EZAudioPlot.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Headers/EZOutput.h"
+- "/Users/jmk/Desktop/workspace/AutoRepeatPlayer/AutoRepeatPlayer/Pods/AudioKit/iOS/AudioKit.framework/Modules/module.modulemap"
+interface-hash: "c823f75952c700b3d11e6e1860ec3d31"
